@@ -1,5 +1,6 @@
 pandas
 geopandas
+gunicorn
 altair
 vega_datasets
 dash

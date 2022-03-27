@@ -1,0 +1,7 @@
+pandas
+geopandas
+altair
+vega_datasets
+dash
+dash_bootstrap_components
+plotly

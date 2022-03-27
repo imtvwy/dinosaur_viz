@@ -1,0 +1,1421 @@
+,name,lng,lat,diet,period,type,length
+19,Tyrannosaurus,-113.0289,51.906399,carnivorous,Late Cretaceous 68-66 million years ago,large theropod,12.0
+20,Tyrannosaurus,-113.23333,51.933334,carnivorous,Late Cretaceous 68-66 million years ago,large theropod,12.0
+23,Camarasaurus,-108.699989,39.068802,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+24,Camarasaurus,-108.717499,39.111668,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+25,Ankylosaurus,-106.569901,47.637699,herbivorous,Late Cretaceous 74-67 million years ago,armoured dinosaur,7.0
+29,Pachycephalosaurus,-106.227776,47.695831,herbivorous,Late Cretaceous 76-65 million years ago,euornithopod,8.0
+36,Allosaurus,-106.041,41.893101,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+37,Allosaurus,-106.389999,42.035831,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+38,Allosaurus,-106.389999,42.035831,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+39,Diplodocus,-106.389999,42.035831,herbivorous,Late Jurassic 155-145 million years ago,sauropod,26.0
+40,Stegosaurus,-106.389999,42.035831,herbivorous,Late Jurassic 155-145 million years ago,armoured dinosaur,9.0
+41,Camarasaurus,-106.389999,42.035831,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+42,Allosaurus,-106.389999,42.035831,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+48,Maiasaura,-112.182777,47.8125,herbivorous,Late Cretaceous 80-75 million years ago,euornithopod,9.0
+88,Styracosaurus,-111.565781,50.742214,herbivorous,Late Cretaceous 76-70 million years ago,ceratopsian,5.5
+90,Apatosaurus,-105.187332,39.653423,herbivorous,Late Jurassic 154-145 million years ago,sauropod,21.0
+96,Diplodocus,-105.916199,42.152302,herbivorous,Late Jurassic 155-145 million years ago,sauropod,26.0
+99,Dilophosaurus,-110.32,36.145279,carnivorous,Early Jurassic 190 million years ago,large theropod,6.0
+100,Dilophosaurus,-110.300003,36.099998,carnivorous,Early Jurassic 190 million years ago,large theropod,6.0
+252,Iguanodon,3.633333,50.466667,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+253,Diplodocus,-106.048615,42.017776,herbivorous,Late Jurassic 155-145 million years ago,sauropod,26.0
+254,Camarasaurus,-106.048615,42.017776,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+255,Stegosaurus,-106.048615,42.017776,herbivorous,Late Jurassic 155-145 million years ago,armoured dinosaur,9.0
+257,Allosaurus,-106.048615,42.017776,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+260,Camarasaurus,-108.120003,43.380001,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+262,Maiasaura,-113.75,48.633301,herbivorous,Late Cretaceous 80-75 million years ago,euornithopod,9.0
+271,Tyrannosaurus,-111.524582,50.727234,carnivorous,Late Cretaceous 68-66 million years ago,large theropod,12.0
+273,Velociraptor,-111.524582,50.727234,carnivorous,Late Cretaceous 74-70 million years ago,small theropod,1.8
+282,Diplodocus,-108.199997,43.630001,herbivorous,Late Jurassic 155-145 million years ago,sauropod,26.0
+283,Camarasaurus,-108.199997,43.630001,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+284,Stegosaurus,-108.199997,43.630001,herbivorous,Late Jurassic 155-145 million years ago,armoured dinosaur,9.0
+285,Allosaurus,-108.199997,43.630001,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+293,Velociraptor,103.333336,44.25,carnivorous,Late Cretaceous 74-70 million years ago,small theropod,1.8
+299,Troodon,-113.75,48.633301,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+301,Maiasaura,-112.701118,48.479202,herbivorous,Late Cretaceous 80-75 million years ago,euornithopod,9.0
+307,Allosaurus,-109.205833,40.423611,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+308,Diplodocus,-109.205833,40.423611,herbivorous,Late Jurassic 155-145 million years ago,sauropod,26.0
+309,Stegosaurus,-109.205833,40.423611,herbivorous,Late Jurassic 155-145 million years ago,armoured dinosaur,9.0
+323,Iguanodon,8.632222,51.434166,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+325,Iguanodon,8.632222,51.434166,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+343,Styracosaurus,-111.494217,50.736092,herbivorous,Late Cretaceous 76-70 million years ago,ceratopsian,5.5
+373,Diplodocus,-109.300552,40.441387,herbivorous,Late Jurassic 155-145 million years ago,sauropod,26.0
+374,Apatosaurus,-109.300552,40.441387,herbivorous,Late Jurassic 154-145 million years ago,sauropod,21.0
+375,Camarasaurus,-109.300552,40.441387,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+376,Stegosaurus,-109.300552,40.441387,herbivorous,Late Jurassic 155-145 million years ago,armoured dinosaur,9.0
+469,Troodon,-109.297203,46.465099,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+473,Troodon,-109.410004,46.459999,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+501,Triceratops,-104.021111,46.466389,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+514,Iguanodon,-1.371491,50.617344,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+531,Dilophosaurus,102.591942,24.671667,carnivorous,Early Jurassic 190 million years ago,large theropod,6.0
+533,Carcharodontosaurus,29.116669,28.33333,carnivorous,Late Cretaceous 98-94 million years ago,large theropod,15.0
+534,Spinosaurus,28.914782,28.43112,carnivorous,Late Cretaceous 95-70 million years ago,large theropod,18.0
+537,Carcharodontosaurus,9.566667,28.5,carnivorous,Late Cretaceous 98-94 million years ago,large theropod,15.0
+539,Carcharodontosaurus,1.083333,27.033333,carnivorous,Late Cretaceous 98-94 million years ago,large theropod,15.0
+546,Carcharodontosaurus,8.175278,28.15,carnivorous,Late Cretaceous 98-94 million years ago,large theropod,15.0
+550,Carcharodontosaurus,9.509186,16.632231,carnivorous,Late Cretaceous 98-94 million years ago,large theropod,15.0
+551,Carcharodontosaurus,10.222018,16.129169,carnivorous,Late Cretaceous 98-94 million years ago,large theropod,15.0
+553,Carcharodontosaurus,9.228752,16.449305,carnivorous,Late Cretaceous 98-94 million years ago,large theropod,15.0
+554,Carcharodontosaurus,10.283333,32.950001,carnivorous,Late Cretaceous 98-94 million years ago,large theropod,15.0
+563,Carcharodontosaurus,5.797784,17.708801,carnivorous,Late Cretaceous 98-94 million years ago,large theropod,15.0
+573,Carcharodontosaurus,6.381111,19.317499,carnivorous,Late Cretaceous 98-94 million years ago,large theropod,15.0
+577,Carcharodontosaurus,-4.836939,30.505667,carnivorous,Late Cretaceous 98-94 million years ago,large theropod,15.0
+580,Spinosaurus,-4.836939,30.505667,carnivorous,Late Cretaceous 95-70 million years ago,large theropod,18.0
+581,Carcharodontosaurus,9.540314,17.971214,carnivorous,Late Cretaceous 98-94 million years ago,large theropod,15.0
+587,Troodon,-112.966667,48.650002,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+591,Psittacosaurus,120.73333,41.799999,herbivorous,Early Cretaceous 120-100 million years ago,ceratopsian,2.0
+612,Troodon,-104.48333,43.049999,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+613,Tyrannosaurus,-104.48333,43.049999,carnivorous,Late Cretaceous 68-66 million years ago,large theropod,12.0
+622,Maiasaura,-112.287567,47.768101,herbivorous,Late Cretaceous 80-75 million years ago,euornithopod,9.0
+624,Troodon,-112.182777,47.8125,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+628,Iguanodon,-1.383333,50.633331,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+647,Utahraptor,-109.567902,38.826099,carnivorous,Early Cretaceous 112-100 million years ago,large theropod,6.0
+650,Utahraptor,-109.691666,38.718056,carnivorous,Early Cretaceous 112-100 million years ago,large theropod,6.0
+673,Triceratops,-104.366669,43.299999,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+702,Tyrannosaurus,-104.491669,40.386391,carnivorous,Late Cretaceous 68-66 million years ago,large theropod,12.0
+704,Triceratops,-104.491669,40.386391,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+750,Diplodocus,-105.224701,38.539501,herbivorous,Late Jurassic 155-145 million years ago,sauropod,26.0
+752,Stegosaurus,-105.192596,39.675598,herbivorous,Late Jurassic 155-145 million years ago,armoured dinosaur,9.0
+765,Giganotosaurus,-68.75,-39.516388,carnivorous,Early Cretaceous 112-90 million years ago,large theropod,12.5
+789,Psittacosaurus,85.666664,46.099998,herbivorous,Early Cretaceous 120-100 million years ago,ceratopsian,2.0
+802,Megalosaurus,-1.8,51.985001,carnivorous,Mid Jurassic 170-155 million years ago,large theropod,9.0
+820,Iguanodon,-9.383333,38.799999,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+887,Troodon,-110.470001,49.119999,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+891,Troodon,-110.470001,49.119999,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+917,Deinonychus,-108.162003,45.438999,carnivorous,Early Cretaceous 120-110 million years ago,small theropod,3.0
+926,Pentaceratops,-108.226997,36.285702,herbivorous,Late Cretaceous 76-74 million years ago,ceratopsian,6.8
+928,Pentaceratops,-108.209099,36.271099,herbivorous,Late Cretaceous 76-74 million years ago,ceratopsian,6.8
+929,Pentaceratops,-108.084198,36.3148,herbivorous,Late Cretaceous 76-74 million years ago,ceratopsian,6.8
+1008,Camarasaurus,-108.388,38.806,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+1063,Styracosaurus,-111.800003,50.73,herbivorous,Late Cretaceous 76-70 million years ago,ceratopsian,5.5
+1110,Allosaurus,-107.999168,35.286945,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+1112,Allosaurus,-103.687775,43.430557,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+1209,Velociraptor,100.901947,43.664444,carnivorous,Late Cretaceous 74-70 million years ago,small theropod,1.8
+1210,Velociraptor,100.901947,43.664444,carnivorous,Late Cretaceous 74-70 million years ago,small theropod,1.8
+1235,Troodon,-111.484657,50.750553,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+1250,Tyrannosaurus,44.0592,48.625599,carnivorous,Late Cretaceous 68-66 million years ago,large theropod,12.0
+1278,Tyrannosaurus,-107.083,47.536201,carnivorous,Late Cretaceous 68-66 million years ago,large theropod,12.0
+1279,Triceratops,-107.083,47.536201,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+1283,Yangchuanosaurus,104.852501,29.411388,carnivorous,Late Jurassic 160-144 million years ago,large theropod,10.0
+1288,Megalosaurus,-2.7667,50.716702,carnivorous,Mid Jurassic 170-155 million years ago,large theropod,9.0
+1291,Allosaurus,-8.617,39.849998,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+1298,Iguanodon,31.145,16.695,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+1300,Ceratosaurus,-8.8,39.700001,carnivorous,Late Jurassic 153-148 million years ago,large theropod,6.0
+1334,Apatosaurus,-103.634003,36.214001,herbivorous,Late Jurassic 154-145 million years ago,sauropod,21.0
+1335,Allosaurus,-106.940559,35.320278,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+1336,Diplodocus,-106.769997,35.563332,herbivorous,Late Jurassic 155-145 million years ago,sauropod,26.0
+1338,Apatosaurus,-107.400002,38.450001,herbivorous,Late Jurassic 154-145 million years ago,sauropod,21.0
+1339,Allosaurus,-107.400002,38.450001,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+1340,Allosaurus,-106.138054,41.980556,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+1359,Megalosaurus,-1.26667,51.866669,carnivorous,Mid Jurassic 170-155 million years ago,large theropod,9.0
+1364,Pentaceratops,-107.977203,36.1548,herbivorous,Late Cretaceous 76-74 million years ago,ceratopsian,6.8
+1365,Pentaceratops,-107.889198,36.1861,herbivorous,Late Cretaceous 76-74 million years ago,ceratopsian,6.8
+1367,Stegosaurus,-105.963402,41.9077,herbivorous,Late Jurassic 155-145 million years ago,armoured dinosaur,9.0
+1368,Stegosaurus,-105.963402,41.9077,herbivorous,Late Jurassic 155-145 million years ago,armoured dinosaur,9.0
+1369,Stegosaurus,-105.963402,41.9077,herbivorous,Late Jurassic 155-145 million years ago,armoured dinosaur,9.0
+1374,Stegosaurus,-105.963402,41.9077,herbivorous,Late Jurassic 155-145 million years ago,armoured dinosaur,9.0
+1378,Camarasaurus,-105.963402,41.9077,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+1379,Camarasaurus,-105.963402,41.9077,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+1380,Allosaurus,-105.963402,41.9077,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+1383,Camarasaurus,-105.963402,41.9077,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+1384,Stegosaurus,-105.963402,41.9077,herbivorous,Late Jurassic 155-145 million years ago,armoured dinosaur,9.0
+1385,Brachiosaurus,-105.963402,41.9077,herbivorous,Late Jurassic 155-140 million years ago,sauropod,30.0
+1386,Stegosaurus,-105.963402,41.9077,herbivorous,Late Jurassic 155-145 million years ago,armoured dinosaur,9.0
+1387,Ceratosaurus,-105.224701,38.539501,carnivorous,Late Jurassic 153-148 million years ago,large theropod,6.0
+1388,Stegosaurus,-105.224701,38.539501,herbivorous,Late Jurassic 155-145 million years ago,armoured dinosaur,9.0
+1389,Stegosaurus,-105.224701,38.539501,herbivorous,Late Jurassic 155-145 million years ago,armoured dinosaur,9.0
+1393,Allosaurus,-105.224701,38.539501,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+1398,Brachiosaurus,-105.224701,38.539501,herbivorous,Late Jurassic 155-140 million years ago,sauropod,30.0
+1399,Diplodocus,-106.041,41.893101,herbivorous,Late Jurassic 155-145 million years ago,sauropod,26.0
+1400,Camarasaurus,-106.041,41.893101,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+1401,Camarasaurus,-106.041,41.893101,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+1402,Camarasaurus,-106.041,41.893101,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+1403,Camarasaurus,-106.041,41.893101,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+1405,Diplodocus,-105.963402,41.9077,herbivorous,Late Jurassic 155-145 million years ago,sauropod,26.0
+1406,Stegosaurus,-105.963402,41.9077,herbivorous,Late Jurassic 155-145 million years ago,armoured dinosaur,9.0
+1408,Camarasaurus,-106.079803,41.878601,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+1409,Allosaurus,-106.079803,41.878601,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+1410,Allosaurus,-106.079803,41.878601,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+1411,Allosaurus,-106.079803,41.893101,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+1412,Apatosaurus,-106.060402,41.878601,herbivorous,Late Jurassic 154-145 million years ago,sauropod,21.0
+1413,Allosaurus,-106.021599,41.893101,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+1414,Camarasaurus,-106.021599,41.893101,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+1416,Apatosaurus,-105.982803,41.9077,herbivorous,Late Jurassic 154-145 million years ago,sauropod,21.0
+1417,Camarasaurus,-105.982803,41.9077,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+1419,Allosaurus,-105.982803,41.9077,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+1420,Stegosaurus,-105.982803,41.9077,herbivorous,Late Jurassic 155-145 million years ago,armoured dinosaur,9.0
+1421,Diplodocus,-106.078903,41.878601,herbivorous,Late Jurassic 155-145 million years ago,sauropod,26.0
+1424,Diplodocus,-106.021599,41.893101,herbivorous,Late Jurassic 155-145 million years ago,sauropod,26.0
+1425,Camarasaurus,-106.021599,41.893101,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+1426,Allosaurus,-106.021599,41.893101,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+1428,Stegosaurus,-106.021599,41.893101,herbivorous,Late Jurassic 155-145 million years ago,armoured dinosaur,9.0
+1429,Camarasaurus,-106.00222,41.893055,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+1431,Allosaurus,-106.00222,41.893055,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+1438,Stegosaurus,-106.002197,41.893101,herbivorous,Late Jurassic 155-145 million years ago,armoured dinosaur,9.0
+1439,Camarasaurus,-106.1073,41.8825,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+1440,Allosaurus,-106.1073,41.8825,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+1442,Diplodocus,-106.1073,41.8825,herbivorous,Late Jurassic 155-145 million years ago,sauropod,26.0
+1443,Stegosaurus,-106.1073,41.8825,herbivorous,Late Jurassic 155-145 million years ago,armoured dinosaur,9.0
+1444,Allosaurus,-106.002197,41.893101,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+1445,Stegosaurus,-105.963402,41.9077,herbivorous,Late Jurassic 155-145 million years ago,armoured dinosaur,9.0
+1446,Allosaurus,-105.963402,41.9077,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+1447,Allosaurus,-105.963402,41.9077,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+1448,Apatosaurus,-105.187332,39.653423,herbivorous,Late Jurassic 154-145 million years ago,sauropod,21.0
+1450,Allosaurus,-105.187332,39.653423,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+1451,Allosaurus,-105.192596,39.675598,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+1452,Apatosaurus,-105.192596,39.675598,herbivorous,Late Jurassic 154-145 million years ago,sauropod,21.0
+1453,Diplodocus,-105.224701,38.539501,herbivorous,Late Jurassic 155-145 million years ago,sauropod,26.0
+1454,Allosaurus,-105.224701,38.539501,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+1458,Apatosaurus,-108.995796,39.2383,herbivorous,Late Jurassic 154-145 million years ago,sauropod,21.0
+1459,Camarasaurus,-108.995796,39.2383,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+1460,Allosaurus,-108.995796,39.2383,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+1463,Ceratosaurus,-108.995796,39.2383,carnivorous,Late Jurassic 153-148 million years ago,large theropod,6.0
+1471,Psittacosaurus,87.957779,55.903332,herbivorous,Early Cretaceous 120-100 million years ago,ceratopsian,2.0
+1544,Saltasaurus,-65.366669,-26.066668,herbivorous,Late Cretaceous 70-65 million years ago,sauropod,12.0
+1560,Tyrannosaurus,-103.9617,45.948799,carnivorous,Late Cretaceous 68-66 million years ago,large theropod,12.0
+1569,Troodon,-103.9617,45.948799,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+1570,Tyrannosaurus,-103.9617,45.948799,carnivorous,Late Cretaceous 68-66 million years ago,large theropod,12.0
+1581,Troodon,-103.300003,46.099998,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+1582,Tyrannosaurus,-103.300003,46.099998,carnivorous,Late Cretaceous 68-66 million years ago,large theropod,12.0
+1590,Tyrannosaurus,-103.753899,45.977699,carnivorous,Late Cretaceous 68-66 million years ago,large theropod,12.0
+1594,Torosaurus,-103.753899,46.006599,herbivorous,Late Cretaceous 70-65 million years ago,ceratopsian,7.5
+1602,Tyrannosaurus,-103.766899,46.026402,carnivorous,Late Cretaceous 68-66 million years ago,large theropod,12.0
+1610,Tyrannosaurus,-103.766899,46.026402,carnivorous,Late Cretaceous 68-66 million years ago,large theropod,12.0
+1617,Tyrannosaurus,-103.766899,46.026402,carnivorous,Late Cretaceous 68-66 million years ago,large theropod,12.0
+1622,Tyrannosaurus,-103.766899,46.026402,carnivorous,Late Cretaceous 68-66 million years ago,large theropod,12.0
+1630,Tyrannosaurus,-103.766899,46.026402,carnivorous,Late Cretaceous 68-66 million years ago,large theropod,12.0
+1641,Triceratops,-103.981499,46.305,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+1644,Tyrannosaurus,-103.795403,46.136902,carnivorous,Late Cretaceous 68-66 million years ago,large theropod,12.0
+1649,Tyrannosaurus,-103.939697,46.406399,carnivorous,Late Cretaceous 68-66 million years ago,large theropod,12.0
+1666,Tyrannosaurus,-103.964401,46.381901,carnivorous,Late Cretaceous 68-66 million years ago,large theropod,12.0
+1671,Tyrannosaurus,-103.0233,46.449799,carnivorous,Late Cretaceous 68-66 million years ago,large theropod,12.0
+1674,Tyrannosaurus,-104.0233,46.464298,carnivorous,Late Cretaceous 68-66 million years ago,large theropod,12.0
+1681,Tyrannosaurus,-103.897903,46.334,carnivorous,Late Cretaceous 68-66 million years ago,large theropod,12.0
+1687,Tyrannosaurus,-103.897903,46.334,carnivorous,Late Cretaceous 68-66 million years ago,large theropod,12.0
+1691,Tyrannosaurus,-103.897903,46.334,carnivorous,Late Cretaceous 68-66 million years ago,large theropod,12.0
+1694,Iguanodon,-0.111111,40.611942,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+1695,Iguanodon,-0.118611,40.604721,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+1696,Iguanodon,-0.143333,40.591667,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+1698,Iguanodon,-0.115833,40.641666,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+1699,Iguanodon,-0.055833,40.619446,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+1702,Psittacosaurus,97.966667,41.466667,herbivorous,Early Cretaceous 120-100 million years ago,ceratopsian,2.0
+1705,Psittacosaurus,97.583336,41.575001,herbivorous,Early Cretaceous 120-100 million years ago,ceratopsian,2.0
+1715,Iguanodon,-0.35,51.133331,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+1724,Troodon,-111.511536,50.752384,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+1744,Troodon,-111.502129,50.747658,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+1754,Tyrannosaurus,-104.002403,46.464298,carnivorous,Late Cretaceous 68-66 million years ago,large theropod,12.0
+1761,Tyrannosaurus,-104.002403,46.464298,carnivorous,Late Cretaceous 68-66 million years ago,large theropod,12.0
+1779,Tyrannosaurus,-103.897903,46.3629,carnivorous,Late Cretaceous 68-66 million years ago,large theropod,12.0
+1789,Tyrannosaurus,-103.946098,45.93903,carnivorous,Late Cretaceous 68-66 million years ago,large theropod,12.0
+1791,Tyrannosaurus,-103.946098,45.93903,carnivorous,Late Cretaceous 68-66 million years ago,large theropod,12.0
+1797,Tyrannosaurus,-103.946098,45.93903,carnivorous,Late Cretaceous 68-66 million years ago,large theropod,12.0
+1887,Troodon,-110.684402,49.075459,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+1902,Triceratops,-106.383301,49.366669,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+1903,Triceratops,-106.383301,49.366669,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+1915,Torosaurus,-111.254303,39.2281,herbivorous,Late Cretaceous 70-65 million years ago,ceratopsian,7.5
+1949,Troodon,-110.719452,49.161789,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+1968,Triceratops,-106.099998,47.799999,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+1973,Ankylosaurus,-108.667801,41.568298,herbivorous,Late Cretaceous 74-67 million years ago,armoured dinosaur,7.0
+1980,Ankylosaurus,-107.099998,47.5667,herbivorous,Late Cretaceous 74-67 million years ago,armoured dinosaur,7.0
+1996,Ankylosaurus,-113.005402,51.862801,herbivorous,Late Cretaceous 74-67 million years ago,armoured dinosaur,7.0
+1997,Ankylosaurus,-113.005402,51.8773,herbivorous,Late Cretaceous 74-67 million years ago,armoured dinosaur,7.0
+1998,Tyrannosaurus,-104.411598,43.441799,carnivorous,Late Cretaceous 68-66 million years ago,large theropod,12.0
+1999,Ankylosaurus,-104.411598,43.441799,herbivorous,Late Cretaceous 74-67 million years ago,armoured dinosaur,7.0
+2000,Ankylosaurus,-105.114723,45.550201,herbivorous,Late Cretaceous 74-67 million years ago,armoured dinosaur,7.0
+2006,Troodon,-110.700768,49.07629,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+2013,Troodon,-110.715843,49.074078,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+2028,Troodon,-110.732346,49.187008,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+2038,Troodon,-110.73439,49.193851,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+2061,Diplodocus,-108.397202,38.583099,herbivorous,Late Jurassic 155-145 million years ago,sauropod,26.0
+2062,Supersaurus,-108.397202,38.583099,herbivorous,Early Cretaceous 154-142 million years ago,sauropod,35.0
+2063,Supersaurus,-108.397202,38.583099,herbivorous,Early Cretaceous 154-142 million years ago,sauropod,35.0
+2064,Supersaurus,-108.397202,38.583099,herbivorous,Early Cretaceous 154-142 million years ago,sauropod,35.0
+2089,Triceratops,-104.457275,42.195904,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+2099,Triceratops,-104.647118,43.121864,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+2100,Triceratops,-104.645187,43.120808,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+2102,Triceratops,-104.91111,43.144444,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+2103,Triceratops,-104.608406,43.237862,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+2104,Triceratops,-104.553055,43.15778,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+2105,Triceratops,-104.644264,43.191978,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+2106,Triceratops,-104.572258,43.227592,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+2107,Torosaurus,-104.649361,43.230537,herbivorous,Late Cretaceous 70-65 million years ago,ceratopsian,7.5
+2108,Torosaurus,-104.628464,43.237728,herbivorous,Late Cretaceous 70-65 million years ago,ceratopsian,7.5
+2109,Triceratops,-104.551041,43.181259,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+2110,Triceratops,-104.605408,43.178665,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+2129,Parasaurolophus,-111.488625,50.750126,herbivorous,Late Cretaceous 76-74 million years ago,euornithopod,11.0
+2134,Triceratops,-106.427223,47.675835,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+2136,Micropachycephalosaurus,-106.427223,47.675835,herbivorous,Late Cretaceous 84-71 million years ago,ceratopsian,0.6
+2138,Camarasaurus,-107.779167,44.535557,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+2140,Allosaurus,-107.779167,44.535557,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+2141,Diplodocus,-107.816666,44.650002,herbivorous,Late Jurassic 155-145 million years ago,sauropod,26.0
+2142,Brachiosaurus,-107.816666,44.650002,herbivorous,Late Jurassic 155-140 million years ago,sauropod,30.0
+2143,Allosaurus,-107.816666,44.650002,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+2147,Apatosaurus,-107.816666,44.650002,herbivorous,Late Jurassic 154-145 million years ago,sauropod,21.0
+2148,Camarasaurus,-107.816666,44.650002,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+2150,Allosaurus,-107.779167,44.535557,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+2151,Allosaurus,-107.779167,44.535557,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+2152,Diplodocus,-107.779167,44.535557,herbivorous,Late Jurassic 155-145 million years ago,sauropod,26.0
+2160,Deinonychus,-95.822998,34.154999,carnivorous,Early Cretaceous 120-110 million years ago,small theropod,3.0
+2169,Troodon,-109.589699,47.808201,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+2186,Psittacosaurus,106.083336,41.166668,herbivorous,Early Cretaceous 120-100 million years ago,ceratopsian,2.0
+2192,Psittacosaurus,109.976997,39.1203,herbivorous,Early Cretaceous 120-100 million years ago,ceratopsian,2.0
+2193,Psittacosaurus,109.976997,39.033401,herbivorous,Early Cretaceous 120-100 million years ago,ceratopsian,2.0
+2194,Psittacosaurus,108.3395,39.883999,herbivorous,Early Cretaceous 120-100 million years ago,ceratopsian,2.0
+2195,Psittacosaurus,108.735001,39.704899,herbivorous,Early Cretaceous 120-100 million years ago,ceratopsian,2.0
+2196,Psittacosaurus,108.083336,38.916668,herbivorous,Early Cretaceous 120-100 million years ago,ceratopsian,2.0
+2197,Psittacosaurus,108.410004,39.360001,herbivorous,Early Cretaceous 120-100 million years ago,ceratopsian,2.0
+2199,Psittacosaurus,108.410004,39.360001,herbivorous,Early Cretaceous 120-100 million years ago,ceratopsian,2.0
+2216,Pentaceratops,-108.084198,36.343899,herbivorous,Late Cretaceous 76-74 million years ago,ceratopsian,6.8
+2251,Camarasaurus,-106.291,41.967098,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+2252,Diplodocus,-106.291,41.967098,herbivorous,Late Jurassic 155-145 million years ago,sauropod,26.0
+2254,Apatosaurus,-109.300552,40.441387,herbivorous,Late Jurassic 154-145 million years ago,sauropod,21.0
+2274,Triceratops,-113.005402,51.891899,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+2275,Triceratops,-113.0289,51.906399,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+2276,Torosaurus,-112.946602,51.9137,herbivorous,Late Cretaceous 70-65 million years ago,ceratopsian,7.5
+2281,Carcharodontosaurus,28.984722,28.33639,carnivorous,Late Cretaceous 98-94 million years ago,large theropod,15.0
+2289,Kentrosaurus,39.231956,-9.713026,herbivorous,Late Jurassic 155-150 million years ago,armoured dinosaur,5.0
+2291,Kentrosaurus,39.237904,-9.696419,herbivorous,Late Jurassic 155-150 million years ago,armoured dinosaur,5.0
+2293,Kentrosaurus,39.239048,-9.695831,herbivorous,Late Jurassic 155-150 million years ago,armoured dinosaur,5.0
+2306,Ceratosaurus,39.213799,-9.679919,carnivorous,Late Jurassic 153-148 million years ago,large theropod,6.0
+2316,Kentrosaurus,39.213799,-9.679919,herbivorous,Late Jurassic 155-150 million years ago,armoured dinosaur,5.0
+2335,Kentrosaurus,39.22842,-9.704556,herbivorous,Late Jurassic 155-150 million years ago,armoured dinosaur,5.0
+2336,Kentrosaurus,39.223774,-9.711796,herbivorous,Late Jurassic 155-150 million years ago,armoured dinosaur,5.0
+2337,Kentrosaurus,39.221272,-9.684436,herbivorous,Late Jurassic 155-150 million years ago,armoured dinosaur,5.0
+2341,Parasaurolophus,-108.088402,36.103901,herbivorous,Late Cretaceous 76-74 million years ago,euornithopod,11.0
+2343,Camarasaurus,-111.270554,38.731667,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+2344,Allosaurus,-111.270554,38.731667,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+2351,Parasaurolophus,-108.083336,36.5,herbivorous,Late Cretaceous 76-74 million years ago,euornithopod,11.0
+2366,Pachycephalosaurus,-106.198402,47.876701,herbivorous,Late Cretaceous 76-65 million years ago,euornithopod,8.0
+2367,Pachycephalosaurus,-104.952904,45.755199,herbivorous,Late Cretaceous 76-65 million years ago,euornithopod,8.0
+2368,Pachycephalosaurus,-101.480698,45.668301,herbivorous,Late Cretaceous 76-65 million years ago,euornithopod,8.0
+2377,Troodon,-111.624329,50.791401,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+2389,Troodon,-111.321968,50.82914,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+2398,Troodon,-111.514679,50.767208,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+2409,Troodon,-111.523872,50.765007,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+2414,Troodon,-111.506981,50.750423,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+2417,Troodon,-111.524963,50.748547,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+2420,Iguanodon,-3.9833,47.983299,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+2444,Troodon,-111.514915,50.749939,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+2449,Troodon,-111.39872,50.754803,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+2453,Troodon,-111.63166,50.809345,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+2457,Troodon,-112.664299,47.8214,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+2466,Allosaurus,-105.224701,38.539501,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+2467,Camarasaurus,-105.231598,38.547501,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+2468,Allosaurus,-105.231598,38.547501,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+2469,Apatosaurus,-105.231598,38.547501,herbivorous,Late Jurassic 154-145 million years ago,sauropod,21.0
+2470,Camarasaurus,-105.231598,38.547501,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+2472,Camarasaurus,-105.231598,38.547501,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+2473,Allosaurus,-105.231598,38.547501,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+2474,Stegosaurus,-105.231598,38.547501,herbivorous,Late Jurassic 155-145 million years ago,armoured dinosaur,9.0
+2476,Camarasaurus,-105.231598,38.547501,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+2477,Camarasaurus,-105.231598,38.547501,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+2478,Camarasaurus,-105.231598,38.547501,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+2479,Camarasaurus,-105.231598,38.547501,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+2480,Camarasaurus,-105.231598,38.547501,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+2486,Camarasaurus,-105.210602,38.5168,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+2487,Allosaurus,-105.212502,38.541,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+2488,Stegosaurus,-105.212502,38.541,herbivorous,Late Jurassic 155-145 million years ago,armoured dinosaur,9.0
+2491,Stegosaurus,-105.212502,38.541,herbivorous,Late Jurassic 155-145 million years ago,armoured dinosaur,9.0
+2492,Camarasaurus,-105.193703,38.544998,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+2493,Allosaurus,-105.193703,38.544998,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+2494,Diplodocus,-105.193703,38.544998,herbivorous,Late Jurassic 155-145 million years ago,sauropod,26.0
+2495,Stegosaurus,-105.193703,38.544998,herbivorous,Late Jurassic 155-145 million years ago,armoured dinosaur,9.0
+2496,Diplodocus,-105.231598,38.546501,herbivorous,Late Jurassic 155-145 million years ago,sauropod,26.0
+2499,Diplodocus,-105.210602,38.5168,herbivorous,Late Jurassic 155-145 million years ago,sauropod,26.0
+2500,Stegosaurus,-105.210602,38.5168,herbivorous,Late Jurassic 155-145 million years ago,armoured dinosaur,9.0
+2502,Allosaurus,-105.210602,38.5168,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+2509,Kentrosaurus,39.22842,-9.704556,herbivorous,Late Jurassic 155-150 million years ago,armoured dinosaur,5.0
+2511,Kentrosaurus,39.22842,-9.704556,herbivorous,Late Jurassic 155-150 million years ago,armoured dinosaur,5.0
+2512,Kentrosaurus,39.22842,-9.704556,herbivorous,Late Jurassic 155-150 million years ago,armoured dinosaur,5.0
+2514,Kentrosaurus,39.22842,-9.704556,herbivorous,Late Jurassic 155-150 million years ago,armoured dinosaur,5.0
+2516,Kentrosaurus,39.22842,-9.704556,herbivorous,Late Jurassic 155-150 million years ago,armoured dinosaur,5.0
+2517,Kentrosaurus,39.22842,-9.704556,herbivorous,Late Jurassic 155-150 million years ago,armoured dinosaur,5.0
+2518,Kentrosaurus,39.235428,-9.714555,herbivorous,Late Jurassic 155-150 million years ago,armoured dinosaur,5.0
+2519,Kentrosaurus,39.228508,-9.708957,herbivorous,Late Jurassic 155-150 million years ago,armoured dinosaur,5.0
+2522,Kentrosaurus,39.22842,-9.704556,herbivorous,Late Jurassic 155-150 million years ago,armoured dinosaur,5.0
+2524,Kentrosaurus,39.22842,-9.704556,herbivorous,Late Jurassic 155-150 million years ago,armoured dinosaur,5.0
+2525,Kentrosaurus,39.22842,-9.704556,herbivorous,Late Jurassic 155-150 million years ago,armoured dinosaur,5.0
+2526,Kentrosaurus,39.22842,-9.704556,herbivorous,Late Jurassic 155-150 million years ago,armoured dinosaur,5.0
+2527,Kentrosaurus,39.22842,-9.704556,herbivorous,Late Jurassic 155-150 million years ago,armoured dinosaur,5.0
+2529,Kentrosaurus,39.22842,-9.704556,herbivorous,Late Jurassic 155-150 million years ago,armoured dinosaur,5.0
+2530,Kentrosaurus,39.22842,-9.704556,herbivorous,Late Jurassic 155-150 million years ago,armoured dinosaur,5.0
+2531,Kentrosaurus,39.22842,-9.704556,herbivorous,Late Jurassic 155-150 million years ago,armoured dinosaur,5.0
+2534,Kentrosaurus,39.251282,-9.656345,herbivorous,Late Jurassic 155-150 million years ago,armoured dinosaur,5.0
+2548,Kentrosaurus,39.22842,-9.704556,herbivorous,Late Jurassic 155-150 million years ago,armoured dinosaur,5.0
+2559,Kentrosaurus,39.22842,-9.704556,herbivorous,Late Jurassic 155-150 million years ago,armoured dinosaur,5.0
+2575,Triceratops,-104.533333,43.183334,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+2609,Triceratops,-111.830559,37.579166,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+2662,Allosaurus,-105.90976,42.155437,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+2664,Parasaurolophus,-108.261299,36.3713,herbivorous,Late Cretaceous 76-74 million years ago,euornithopod,11.0
+2667,Pachycephalosaurus,-103.897903,46.348499,herbivorous,Late Cretaceous 76-65 million years ago,euornithopod,8.0
+2668,Pachycephalosaurus,-106.366699,47.666698,herbivorous,Late Cretaceous 76-65 million years ago,euornithopod,8.0
+2669,Pachycephalosaurus,-106.916702,47.533298,herbivorous,Late Cretaceous 76-65 million years ago,euornithopod,8.0
+2670,Pachycephalosaurus,-104.833298,45.849998,herbivorous,Late Cretaceous 76-65 million years ago,euornithopod,8.0
+2671,Tyrannosaurus,-106.455559,47.96389,carnivorous,Late Cretaceous 68-66 million years ago,large theropod,12.0
+2672,Pachycephalosaurus,-106.455559,47.96389,herbivorous,Late Cretaceous 76-65 million years ago,euornithopod,8.0
+2673,Tyrannosaurus,-106.455559,47.96389,carnivorous,Late Cretaceous 68-66 million years ago,large theropod,12.0
+2679,Ampelosaurus,2.2,42.9137,herbivorous,Late Cretaceous 71-65 million years ago,sauropod,15.0
+2692,Carcharodontosaurus,-3.966667,30.9,carnivorous,Late Cretaceous 98-94 million years ago,large theropod,15.0
+2694,Ampelosaurus,2.95,43.349998,herbivorous,Late Cretaceous 71-65 million years ago,sauropod,15.0
+2714,Psittacosaurus,102.733299,44.241501,herbivorous,Early Cretaceous 120-100 million years ago,ceratopsian,2.0
+2715,Psittacosaurus,102.733299,44.241501,herbivorous,Early Cretaceous 120-100 million years ago,ceratopsian,2.0
+2716,Psittacosaurus,102.733299,44.241501,herbivorous,Early Cretaceous 120-100 million years ago,ceratopsian,2.0
+2717,Psittacosaurus,101.866699,44.748798,herbivorous,Early Cretaceous 120-100 million years ago,ceratopsian,2.0
+2718,Psittacosaurus,101.866699,44.748798,herbivorous,Early Cretaceous 120-100 million years ago,ceratopsian,2.0
+2728,Tyrannosaurus,-105.839996,48.286839,carnivorous,Late Cretaceous 68-66 million years ago,large theropod,12.0
+2729,Triceratops,-106.161316,47.839645,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+2740,Allosaurus,-106.048615,42.017776,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+2785,Troodon,-106.650002,47.650002,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+2788,Pachycephalosaurus,-106.383301,47.599998,herbivorous,Late Cretaceous 76-65 million years ago,euornithopod,8.0
+2789,Triceratops,-106.383301,47.599998,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+2799,Troodon,-104.494713,43.128948,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+2807,Troodon,-107.183327,47.516701,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+2817,Troodon,-106.916702,47.0667,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+2830,Triceratops,-104.637001,43.116329,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+2832,Pachycephalosaurus,-104.637001,43.116329,herbivorous,Late Cretaceous 76-65 million years ago,euornithopod,8.0
+2834,Ankylosaurus,-104.637001,43.116329,herbivorous,Late Cretaceous 74-67 million years ago,armoured dinosaur,7.0
+2837,Tyrannosaurus,-104.637001,43.116329,carnivorous,Late Cretaceous 68-66 million years ago,large theropod,12.0
+2861,Triceratops,-106.883301,47.533298,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+2868,Brachiosaurus,30.800833,-16.265833,herbivorous,Late Jurassic 155-140 million years ago,sauropod,30.0
+2870,Camarasaurus,30.800833,-16.265833,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+2872,Camarasaurus,30.689049,-16.258829,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+2897,Triceratops,-106.099998,47.799999,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+2899,Troodon,-106.099998,47.799999,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+2911,Triceratops,-106.183296,47.616699,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+2914,Troodon,-106.183296,47.616699,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+2924,Camarasaurus,-8.575556,39.662777,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+2937,Iguanodon,-9.214722,38.423889,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+2941,Ceratosaurus,-9.21,39.110001,carnivorous,Late Jurassic 153-148 million years ago,large theropod,6.0
+2945,Supersaurus,-9.3435,39.2164,herbivorous,Early Cretaceous 154-142 million years ago,sauropod,35.0
+2946,Spinosaurus,28.926096,28.379345,carnivorous,Late Cretaceous 95-70 million years ago,large theropod,18.0
+2948,Allosaurus,-102.824997,36.897499,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+2951,Psittacosaurus,106.98333,41.5,herbivorous,Early Cretaceous 120-100 million years ago,ceratopsian,2.0
+2982,Ceratosaurus,-108.397202,38.583099,carnivorous,Late Jurassic 153-148 million years ago,large theropod,6.0
+2986,Apatosaurus,-108.397202,38.583099,herbivorous,Late Jurassic 154-145 million years ago,sauropod,21.0
+2988,Camarasaurus,-108.397202,38.583099,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+2991,Stegosaurus,-108.397202,38.583099,herbivorous,Late Jurassic 155-145 million years ago,armoured dinosaur,9.0
+2992,Allosaurus,-108.397202,38.583099,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+2994,Tyrannosaurus,-105.203766,39.751331,carnivorous,Late Cretaceous 68-66 million years ago,large theropod,12.0
+2998,Tyrannosaurus,-105.203766,39.751331,carnivorous,Late Cretaceous 68-66 million years ago,large theropod,12.0
+3001,Triceratops,-105.011108,39.810833,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+3008,Triceratops,-104.333191,40.66996,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+3016,Tyrannosaurus,-105.110275,39.8675,carnivorous,Late Cretaceous 68-66 million years ago,large theropod,12.0
+3017,Torosaurus,-105.183609,39.844723,herbivorous,Late Cretaceous 70-65 million years ago,ceratopsian,7.5
+3020,Tyrannosaurus,-105.016113,39.613335,carnivorous,Late Cretaceous 68-66 million years ago,large theropod,12.0
+3022,Tyrannosaurus,-105.036667,39.836666,carnivorous,Late Cretaceous 68-66 million years ago,large theropod,12.0
+3024,Pachycephalosaurus,-105.036667,39.836666,herbivorous,Late Cretaceous 76-65 million years ago,euornithopod,8.0
+3033,Tyrannosaurus,-105.110275,39.8675,carnivorous,Late Cretaceous 68-66 million years ago,large theropod,12.0
+3063,Allosaurus,-109.391602,40.5345,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+3064,Diplodocus,-102.824997,36.897499,herbivorous,Late Jurassic 155-145 million years ago,sauropod,26.0
+3065,Apatosaurus,-102.824997,36.897499,herbivorous,Late Jurassic 154-145 million years ago,sauropod,21.0
+3067,Stegosaurus,-102.824997,36.897499,herbivorous,Late Jurassic 155-145 million years ago,armoured dinosaur,9.0
+3069,Allosaurus,-102.962776,36.903057,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+3070,Camarasaurus,-102.962776,36.903057,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+3071,Apatosaurus,-102.962776,36.903057,herbivorous,Late Jurassic 154-145 million years ago,sauropod,21.0
+3072,Diplodocus,-102.962776,36.903057,herbivorous,Late Jurassic 155-145 million years ago,sauropod,26.0
+3073,Stegosaurus,-102.962776,36.903057,herbivorous,Late Jurassic 155-145 million years ago,armoured dinosaur,9.0
+3075,Allosaurus,-102.962776,36.903057,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+3076,Camarasaurus,-102.962776,36.903057,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+3077,Diplodocus,-102.962776,36.903057,herbivorous,Late Jurassic 155-145 million years ago,sauropod,26.0
+3078,Apatosaurus,-102.962776,36.903057,herbivorous,Late Jurassic 154-145 million years ago,sauropod,21.0
+3081,Diplodocus,-108.728699,39.128502,herbivorous,Late Jurassic 155-145 million years ago,sauropod,26.0
+3082,Allosaurus,-106.291,41.967098,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+3084,Camarasaurus,-106.291,41.967098,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+3085,Diplodocus,-106.291,41.967098,herbivorous,Late Jurassic 155-145 million years ago,sauropod,26.0
+3086,Apatosaurus,-106.291,41.967098,herbivorous,Late Jurassic 154-145 million years ago,sauropod,21.0
+3087,Stegosaurus,-106.291,41.967098,herbivorous,Late Jurassic 155-145 million years ago,armoured dinosaur,9.0
+3093,Allosaurus,-109.252899,39.172699,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+3101,Sauropelta,-109.736702,38.759998,herbivorous,Early Cretaceous 121-94 million years ago,armoured dinosaur,6.5
+3113,Apatosaurus,-106.809166,38.524166,herbivorous,Late Jurassic 154-145 million years ago,sauropod,21.0
+3114,Allosaurus,-108.476669,38.853611,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+3115,Allosaurus,-108.397202,38.583099,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+3118,Brachiosaurus,-108.194443,38.638058,herbivorous,Late Jurassic 155-140 million years ago,sauropod,30.0
+3119,Allosaurus,-110.616386,45.544167,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+3120,Diplodocus,-110.616386,45.544167,herbivorous,Late Jurassic 155-145 million years ago,sauropod,26.0
+3121,Apatosaurus,-103.306946,44.474445,herbivorous,Late Jurassic 154-145 million years ago,sauropod,21.0
+3122,Allosaurus,-110.367203,39.014301,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+3123,Camarasaurus,-110.367203,39.014301,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+3124,Stegosaurus,-110.367203,39.014301,herbivorous,Late Jurassic 155-145 million years ago,armoured dinosaur,9.0
+3127,Allosaurus,-106.00222,41.893055,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+3128,Camarasaurus,-106.00222,41.893055,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+3129,Apatosaurus,-106.00222,41.893055,herbivorous,Late Jurassic 154-145 million years ago,sauropod,21.0
+3130,Stegosaurus,-106.00222,41.893055,herbivorous,Late Jurassic 155-145 million years ago,armoured dinosaur,9.0
+3131,Allosaurus,-106.00222,41.893055,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+3132,Camarasaurus,-106.00222,41.893055,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+3133,Diplodocus,-106.00222,41.893055,herbivorous,Late Jurassic 155-145 million years ago,sauropod,26.0
+3134,Apatosaurus,-106.00222,41.893055,herbivorous,Late Jurassic 154-145 million years ago,sauropod,21.0
+3135,Stegosaurus,-106.00222,41.893055,herbivorous,Late Jurassic 155-145 million years ago,armoured dinosaur,9.0
+3138,Camarasaurus,-103.828003,44.528,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+3139,Apatosaurus,-103.828003,44.528,herbivorous,Late Jurassic 154-145 million years ago,sauropod,21.0
+3140,Allosaurus,-103.828003,44.528,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+3142,Allosaurus,-103.344597,44.184399,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+3143,Camarasaurus,-103.409698,43.409801,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+3145,Camarasaurus,-104.734703,44.458099,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+3155,Ceratosaurus,-108.769012,39.146667,carnivorous,Late Jurassic 153-148 million years ago,large theropod,6.0
+3157,Allosaurus,-110.687622,39.32399,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+3166,Yangchuanosaurus,105.683334,29.333332,carnivorous,Late Jurassic 160-144 million years ago,large theropod,10.0
+3168,Psittacosaurus,110.083336,41.016666,herbivorous,Early Cretaceous 120-100 million years ago,ceratopsian,2.0
+3172,Stegosaurus,85.792046,46.043884,herbivorous,Late Jurassic 155-145 million years ago,armoured dinosaur,9.0
+3174,Stegosaurus,85.666664,46.099998,herbivorous,Late Jurassic 155-145 million years ago,armoured dinosaur,9.0
+3175,Megalosaurus,39.238705,-9.700967,carnivorous,Mid Jurassic 170-155 million years ago,large theropod,9.0
+3188,Triceratops,-101.199997,45.750278,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+3192,Triceratops,-105.238609,42.648609,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+3193,Triceratops,-104.603691,43.27409,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+3213,Sauropelta,-108.516899,45.485699,herbivorous,Early Cretaceous 121-94 million years ago,armoured dinosaur,6.5
+3215,Deinonychus,-107.895401,44.5089,carnivorous,Early Cretaceous 120-110 million years ago,small theropod,3.0
+3216,Sauropelta,-108.014999,44.542801,herbivorous,Early Cretaceous 121-94 million years ago,armoured dinosaur,6.5
+3219,Deinonychus,-108.322403,44.978199,carnivorous,Early Cretaceous 120-110 million years ago,small theropod,3.0
+3227,Psittacosaurus,120.8722,41.601398,herbivorous,Early Cretaceous 120-100 million years ago,ceratopsian,2.0
+3232,Psittacosaurus,120.8722,41.601398,herbivorous,Early Cretaceous 120-100 million years ago,ceratopsian,2.0
+3233,Psittacosaurus,120.8722,41.601398,herbivorous,Early Cretaceous 120-100 million years ago,ceratopsian,2.0
+3239,Sauropelta,-108.079597,45.438999,herbivorous,Early Cretaceous 121-94 million years ago,armoured dinosaur,6.5
+3240,Sauropelta,-108.079597,45.4244,herbivorous,Early Cretaceous 121-94 million years ago,armoured dinosaur,6.5
+3243,Deinonychus,-108.182602,45.4244,carnivorous,Early Cretaceous 120-110 million years ago,small theropod,3.0
+3244,Sauropelta,-108.182602,45.4244,herbivorous,Early Cretaceous 121-94 million years ago,armoured dinosaur,6.5
+3249,Deinonychus,-109.685501,46.337502,carnivorous,Early Cretaceous 120-110 million years ago,small theropod,3.0
+3251,Sauropelta,-108.709999,45.124199,herbivorous,Early Cretaceous 121-94 million years ago,armoured dinosaur,6.5
+3253,Deinonychus,-108.811302,45.197399,carnivorous,Early Cretaceous 120-110 million years ago,small theropod,3.0
+3255,Deinonychus,-108.750099,45.3559,carnivorous,Early Cretaceous 120-110 million years ago,small theropod,3.0
+3256,Deinonychus,-107.572601,43.219398,carnivorous,Early Cretaceous 120-110 million years ago,small theropod,3.0
+3258,Deinonychus,-108.811798,45.3559,carnivorous,Early Cretaceous 120-110 million years ago,small theropod,3.0
+3260,Sauropelta,-108.811798,45.3559,herbivorous,Early Cretaceous 121-94 million years ago,armoured dinosaur,6.5
+3262,Deinonychus,-108.811302,45.341202,carnivorous,Early Cretaceous 120-110 million years ago,small theropod,3.0
+3265,Sauropelta,-108.237701,44.6875,herbivorous,Early Cretaceous 121-94 million years ago,armoured dinosaur,6.5
+3266,Deinonychus,-108.322403,44.978199,carnivorous,Early Cretaceous 120-110 million years ago,small theropod,3.0
+3269,Sauropelta,-108.322403,44.978199,herbivorous,Early Cretaceous 121-94 million years ago,armoured dinosaur,6.5
+3270,Sauropelta,-108.322403,44.978199,herbivorous,Early Cretaceous 121-94 million years ago,armoured dinosaur,6.5
+3271,Sauropelta,-108.322403,44.978199,herbivorous,Early Cretaceous 121-94 million years ago,armoured dinosaur,6.5
+3272,Deinonychus,-108.322403,44.978199,carnivorous,Early Cretaceous 120-110 million years ago,small theropod,3.0
+3276,Sauropelta,-108.322403,44.978199,herbivorous,Early Cretaceous 121-94 million years ago,armoured dinosaur,6.5
+3277,Sauropelta,-108.322403,44.978199,herbivorous,Early Cretaceous 121-94 million years ago,armoured dinosaur,6.5
+3279,Sauropelta,-108.322403,44.978199,herbivorous,Early Cretaceous 121-94 million years ago,armoured dinosaur,6.5
+3280,Sauropelta,-108.322403,44.978199,herbivorous,Early Cretaceous 121-94 million years ago,armoured dinosaur,6.5
+3283,Sauropelta,-108.100197,45.453602,herbivorous,Early Cretaceous 121-94 million years ago,armoured dinosaur,6.5
+3284,Sauropelta,-108.162003,45.438999,herbivorous,Early Cretaceous 121-94 million years ago,armoured dinosaur,6.5
+3287,Deinonychus,-108.2649,45.380501,carnivorous,Early Cretaceous 120-110 million years ago,small theropod,3.0
+3290,Sauropelta,-108.2855,45.380501,herbivorous,Early Cretaceous 121-94 million years ago,armoured dinosaur,6.5
+3292,Sauropelta,-108.038498,45.409698,herbivorous,Early Cretaceous 121-94 million years ago,armoured dinosaur,6.5
+3293,Deinonychus,-108.038498,45.409698,carnivorous,Early Cretaceous 120-110 million years ago,small theropod,3.0
+3295,Sauropelta,-108.322403,44.978199,herbivorous,Early Cretaceous 121-94 million years ago,armoured dinosaur,6.5
+3296,Sauropelta,-108.322403,44.978199,herbivorous,Early Cretaceous 121-94 million years ago,armoured dinosaur,6.5
+3297,Sauropelta,-108.100197,45.351299,herbivorous,Early Cretaceous 121-94 million years ago,armoured dinosaur,6.5
+3300,Deinonychus,-108.100197,45.351299,carnivorous,Early Cretaceous 120-110 million years ago,small theropod,3.0
+3302,Deinonychus,-108.811302,45.283699,carnivorous,Early Cretaceous 120-110 million years ago,small theropod,3.0
+3308,Deinonychus,-108.141403,45.438999,carnivorous,Early Cretaceous 120-110 million years ago,small theropod,3.0
+3311,Deinonychus,-108.162003,45.438999,carnivorous,Early Cretaceous 120-110 million years ago,small theropod,3.0
+3312,Sauropelta,-108.2649,45.365898,herbivorous,Early Cretaceous 121-94 million years ago,armoured dinosaur,6.5
+3316,Sauropelta,-108.162003,45.438999,herbivorous,Early Cretaceous 121-94 million years ago,armoured dinosaur,6.5
+3320,Deinonychus,-108.141403,45.438999,carnivorous,Early Cretaceous 120-110 million years ago,small theropod,3.0
+3323,Deinonychus,-108.811302,45.2262,carnivorous,Early Cretaceous 120-110 million years ago,small theropod,3.0
+3326,Deinonychus,-108.811302,45.2262,carnivorous,Early Cretaceous 120-110 million years ago,small theropod,3.0
+3328,Deinonychus,-108.811302,45.2262,carnivorous,Early Cretaceous 120-110 million years ago,small theropod,3.0
+3331,Sauropelta,-108.120796,45.468201,herbivorous,Early Cretaceous 121-94 million years ago,armoured dinosaur,6.5
+3333,Diplodocus,-108.100197,45.453602,herbivorous,Late Jurassic 155-145 million years ago,sauropod,26.0
+3334,Sauropelta,-108.120796,45.468201,herbivorous,Early Cretaceous 121-94 million years ago,armoured dinosaur,6.5
+3338,Sauropelta,-109.706398,46.323002,herbivorous,Early Cretaceous 121-94 million years ago,armoured dinosaur,6.5
+3341,Psittacosaurus,106.98333,41.5,herbivorous,Early Cretaceous 120-100 million years ago,ceratopsian,2.0
+3343,Velociraptor,106.98278,41.500557,carnivorous,Late Cretaceous 74-70 million years ago,small theropod,1.8
+3379,Troodon,-109.099998,46.099998,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+3385,Troodon,-109.66333,46.400002,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+3393,Triceratops,-104.707176,43.139351,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+3469,Parasaurolophus,-108.0,35.952778,herbivorous,Late Cretaceous 76-74 million years ago,euornithopod,11.0
+3537,Troodon,-109.099998,46.099998,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+3550,Carcharodontosaurus,28.914782,28.43112,carnivorous,Late Cretaceous 98-94 million years ago,large theropod,15.0
+3556,Spinosaurus,28.902561,28.417294,carnivorous,Late Cretaceous 95-70 million years ago,large theropod,18.0
+3559,Spinosaurus,29.116669,28.33333,carnivorous,Late Cretaceous 95-70 million years ago,large theropod,18.0
+3570,Troodon,-151.578232,70.071365,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+3573,Troodon,-151.800003,69.599998,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+3575,Troodon,-151.536957,70.090096,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+3578,Dilophosaurus,-111.167,35.666698,carnivorous,Early Jurassic 190 million years ago,large theropod,6.0
+3596,Giganotosaurus,-69.599998,-39.200001,carnivorous,Early Cretaceous 112-90 million years ago,large theropod,12.5
+3597,Giganotosaurus,-68.716667,-39.206501,carnivorous,Early Cretaceous 112-90 million years ago,large theropod,12.5
+3623,Argentinosaurus,-69.059998,-38.916672,herbivorous,Late Cretaceous 90 million years ago,sauropod,35.0
+3631,Camarasaurus,-106.313911,35.317261,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+3632,Camarasaurus,-106.313911,35.317261,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+3633,Diplodocus,-106.943939,35.580383,herbivorous,Late Jurassic 155-145 million years ago,sauropod,26.0
+3662,Parasaurolophus,-111.777496,37.6777,herbivorous,Late Cretaceous 76-74 million years ago,euornithopod,11.0
+3667,Troodon,-112.989502,49.9175,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+3674,Sauropelta,-108.141403,45.438999,herbivorous,Early Cretaceous 121-94 million years ago,armoured dinosaur,6.5
+3680,Triceratops,-106.908333,42.155556,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+3681,Triceratops,-106.883698,42.090302,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+3687,Pachycephalosaurus,-104.622322,43.151543,herbivorous,Late Cretaceous 76-65 million years ago,euornithopod,8.0
+3688,Triceratops,-104.1978,41.907799,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+3692,Psittacosaurus,101.733887,45.395,herbivorous,Early Cretaceous 120-100 million years ago,ceratopsian,2.0
+3701,Psittacosaurus,86.316666,46.133331,herbivorous,Early Cretaceous 120-100 million years ago,ceratopsian,2.0
+3729,Iguanodon,-1.313889,50.587223,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+3730,Iguanodon,-1.429067,50.638988,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+3731,Iguanodon,-0.349444,51.049721,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+3732,Iguanodon,-1.969722,50.626389,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+3770,Deinonychus,-108.811302,45.341301,carnivorous,Early Cretaceous 120-110 million years ago,small theropod,3.0
+3776,Psittacosaurus,120.033302,41.25,herbivorous,Early Cretaceous 120-100 million years ago,ceratopsian,2.0
+3777,Psittacosaurus,120.033302,41.25,herbivorous,Early Cretaceous 120-100 million years ago,ceratopsian,2.0
+3778,Psittacosaurus,120.033302,41.25,herbivorous,Early Cretaceous 120-100 million years ago,ceratopsian,2.0
+3779,Psittacosaurus,120.033302,41.25,herbivorous,Early Cretaceous 120-100 million years ago,ceratopsian,2.0
+3803,Styracosaurus,-111.395149,50.747826,herbivorous,Late Cretaceous 76-70 million years ago,ceratopsian,5.5
+3818,Megalosaurus,-0.943333,52.24361,carnivorous,Mid Jurassic 170-155 million years ago,large theropod,9.0
+3820,Megalosaurus,-2.240278,51.733891,carnivorous,Mid Jurassic 170-155 million years ago,large theropod,9.0
+3822,Megalosaurus,-1.58,51.908611,carnivorous,Mid Jurassic 170-155 million years ago,large theropod,9.0
+3823,Megalosaurus,-1.904167,52.009724,carnivorous,Mid Jurassic 170-155 million years ago,large theropod,9.0
+3824,Megalosaurus,-1.455278,51.918331,carnivorous,Mid Jurassic 170-155 million years ago,large theropod,9.0
+3829,Iguanodon,-1.158333,50.655834,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+3830,Iguanodon,0.487778,50.913891,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+3832,Iguanodon,-0.349444,51.049721,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+3833,Megalosaurus,-1.627778,51.914444,carnivorous,Mid Jurassic 170-155 million years ago,large theropod,9.0
+3834,Megalosaurus,-1.703889,51.945278,carnivorous,Mid Jurassic 170-155 million years ago,large theropod,9.0
+3848,Megalosaurus,0.0,49.316669,carnivorous,Mid Jurassic 170-155 million years ago,large theropod,9.0
+3852,Iguanodon,-1.157778,50.655834,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+3857,Iguanodon,0.522778,51.073891,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+3858,Iguanodon,0.526389,50.851665,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+3861,Iguanodon,0.560833,50.865833,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+3863,Iguanodon,0.554722,50.864166,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+3864,Iguanodon,0.441246,50.833755,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+3873,Triceratops,-104.662415,43.298447,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+3874,Triceratops,-104.624504,43.255741,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+3875,Triceratops,-104.657974,43.200047,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+3876,Triceratops,-104.547592,43.219185,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+3877,Triceratops,-104.547592,43.219185,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+3878,Triceratops,-104.553886,43.213612,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+3879,Triceratops,-104.553886,43.213612,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+3880,Triceratops,-104.553055,43.15778,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+3881,Triceratops,-104.563087,43.132011,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+3882,Triceratops,-104.476509,43.164665,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+3883,Triceratops,-104.479118,43.157288,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+3884,Triceratops,-104.466469,43.209248,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+3885,Triceratops,-104.463478,43.193295,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+3886,Triceratops,-104.473907,43.188305,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+3887,Triceratops,-104.544395,43.15831,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+3888,Triceratops,-104.419998,43.311951,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+3889,Triceratops,-104.514442,43.183613,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+3903,Camarasaurus,-105.908501,42.152802,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+3904,Camarasaurus,-105.908501,42.152802,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+3933,Allosaurus,-105.940292,40.092209,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+3934,Apatosaurus,-105.908501,42.152802,herbivorous,Late Jurassic 154-145 million years ago,sauropod,21.0
+3935,Tyrannosaurus,-104.072433,43.128304,carnivorous,Late Cretaceous 68-66 million years ago,large theropod,12.0
+3953,Psittacosaurus,120.8722,41.601398,herbivorous,Early Cretaceous 120-100 million years ago,ceratopsian,2.0
+3955,Spinosaurus,-3.9833,30.9,carnivorous,Late Cretaceous 95-70 million years ago,large theropod,18.0
+3956,Spinosaurus,-3.9833,30.9,carnivorous,Late Cretaceous 95-70 million years ago,large theropod,18.0
+3957,Spinosaurus,-3.9833,30.9,carnivorous,Late Cretaceous 95-70 million years ago,large theropod,18.0
+3958,Carcharodontosaurus,-3.9833,30.9,carnivorous,Late Cretaceous 98-94 million years ago,large theropod,15.0
+3961,Spinosaurus,-3.9833,30.9,carnivorous,Late Cretaceous 95-70 million years ago,large theropod,18.0
+3967,Ceratosaurus,-102.824997,36.897499,carnivorous,Late Jurassic 153-148 million years ago,large theropod,6.0
+3972,Pachycephalosaurus,-106.300003,47.666698,herbivorous,Late Cretaceous 76-65 million years ago,euornithopod,8.0
+3994,Brachiosaurus,-102.824997,36.897499,herbivorous,Late Jurassic 155-140 million years ago,sauropod,30.0
+4169,Troodon,-112.183609,47.812222,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+4170,Troodon,-112.183609,47.812222,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+4171,Maiasaura,-112.183609,47.812222,herbivorous,Late Cretaceous 80-75 million years ago,euornithopod,9.0
+4189,Torosaurus,-103.8424,45.461102,herbivorous,Late Cretaceous 70-65 million years ago,ceratopsian,7.5
+4208,Psittacosaurus,87.999168,55.87611,herbivorous,Early Cretaceous 120-100 million years ago,ceratopsian,2.0
+4209,Psittacosaurus,87.999168,55.87611,herbivorous,Early Cretaceous 120-100 million years ago,ceratopsian,2.0
+4211,Psittacosaurus,91.813614,56.527222,herbivorous,Early Cretaceous 120-100 million years ago,ceratopsian,2.0
+4222,Deinonychus,-95.822998,34.154999,carnivorous,Early Cretaceous 120-110 million years ago,small theropod,3.0
+4223,Deinonychus,-96.099998,34.400002,carnivorous,Early Cretaceous 120-110 million years ago,small theropod,3.0
+4245,Troodon,-109.5,49.099998,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+4252,Triceratops,-107.400002,49.400002,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+4272,Iguanodon,5.019158,48.701614,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+4274,Iguanodon,4.95,48.633301,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+4288,Parasaurolophus,-108.256111,36.277779,herbivorous,Late Cretaceous 76-74 million years ago,euornithopod,11.0
+4289,Parasaurolophus,-108.083336,36.5,herbivorous,Late Cretaceous 76-74 million years ago,euornithopod,11.0
+4308,Megalosaurus,1.573869,50.706455,carnivorous,Mid Jurassic 170-155 million years ago,large theropod,9.0
+4310,Allosaurus,-109.300552,40.441387,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+4311,Camarasaurus,-109.300552,40.441387,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+4315,Pentaceratops,-108.226997,36.285702,herbivorous,Late Cretaceous 76-74 million years ago,ceratopsian,6.8
+4344,Tyrannosaurus,-108.816666,49.516666,carnivorous,Late Cretaceous 68-66 million years ago,large theropod,12.0
+4345,Triceratops,-108.816666,49.516666,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+4346,Triceratops,-108.816666,49.516666,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+4363,Triceratops,-104.610558,43.488888,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+4365,Triceratops,-104.366386,43.301666,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+4414,Deinonychus,-108.409721,45.259998,carnivorous,Early Cretaceous 120-110 million years ago,small theropod,3.0
+4416,Sauropelta,-108.409721,45.259998,herbivorous,Early Cretaceous 121-94 million years ago,armoured dinosaur,6.5
+4447,Triceratops,-107.192223,33.154167,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+4448,Tyrannosaurus,-107.149719,33.242222,carnivorous,Late Cretaceous 68-66 million years ago,large theropod,12.0
+4453,Parasaurolophus,-108.0485,36.3148,herbivorous,Late Cretaceous 76-74 million years ago,euornithopod,11.0
+4472,Camarasaurus,-108.774719,39.167778,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+4473,Stegosaurus,-108.774719,39.167778,herbivorous,Late Jurassic 155-145 million years ago,armoured dinosaur,9.0
+4476,Allosaurus,-106.589996,41.799999,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+4503,Triceratops,-107.083298,47.5667,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+4504,Triceratops,-106.216698,47.599998,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+4505,Triceratops,-106.216698,47.6833,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+4544,Microraptor,121.222801,41.497799,carnivorous,Early Cretaceous 125-122 million years ago,small theropod,0.8
+4564,Psittacosaurus,119.666702,37.0667,herbivorous,Early Cretaceous 120-100 million years ago,ceratopsian,2.0
+4565,Psittacosaurus,120.7136,36.9758,herbivorous,Early Cretaceous 120-100 million years ago,ceratopsian,2.0
+4569,Ceratosaurus,-106.291,41.967098,carnivorous,Late Jurassic 153-148 million years ago,large theropod,6.0
+4570,Stegosaurus,-106.356903,41.916302,herbivorous,Late Jurassic 155-145 million years ago,armoured dinosaur,9.0
+4572,Stegosaurus,-106.310997,41.951698,herbivorous,Late Jurassic 155-145 million years ago,armoured dinosaur,9.0
+4573,Diplodocus,-106.310997,41.951698,herbivorous,Late Jurassic 155-145 million years ago,sauropod,26.0
+4574,Camarasaurus,-106.310997,41.951698,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+4576,Apatosaurus,-105.979721,41.893055,herbivorous,Late Jurassic 154-145 million years ago,sauropod,21.0
+4578,Stegosaurus,-110.687622,39.32399,herbivorous,Late Jurassic 155-145 million years ago,armoured dinosaur,9.0
+4593,Microraptor,120.175301,41.423901,carnivorous,Early Cretaceous 125-122 million years ago,small theropod,0.8
+4610,Microraptor,120.225601,41.494999,carnivorous,Early Cretaceous 125-122 million years ago,small theropod,0.8
+4627,Troodon,-112.577003,49.283001,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+4691,Camarasaurus,-103.344597,44.184399,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+4729,Camarasaurus,-105.90976,42.155437,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+4730,Apatosaurus,-105.90976,42.155437,herbivorous,Late Jurassic 154-145 million years ago,sauropod,21.0
+4732,Stegosaurus,-105.90976,42.155437,herbivorous,Late Jurassic 155-145 million years ago,armoured dinosaur,9.0
+4733,Diplodocus,-105.193703,38.544998,herbivorous,Late Jurassic 155-145 million years ago,sauropod,26.0
+4734,Camarasaurus,-105.212502,38.541,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+4736,Spinosaurus,-44.461399,-2.4781,carnivorous,Late Cretaceous 95-70 million years ago,large theropod,18.0
+4749,Parasaurolophus,-108.191299,36.242001,herbivorous,Late Cretaceous 76-74 million years ago,euornithopod,11.0
+4751,Diplodocus,-105.192596,39.675598,herbivorous,Late Jurassic 155-145 million years ago,sauropod,26.0
+4755,Camarasaurus,-108.100197,45.453602,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+4756,Camarasaurus,-107.13279,35.197208,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+4757,Stegosaurus,-102.962776,36.903057,herbivorous,Late Jurassic 155-145 million years ago,armoured dinosaur,9.0
+4758,Apatosaurus,-102.962776,36.903057,herbivorous,Late Jurassic 154-145 million years ago,sauropod,21.0
+4759,Ceratosaurus,-109.300552,40.441387,carnivorous,Late Jurassic 153-148 million years ago,large theropod,6.0
+4791,Stegosaurus,-109.036133,39.200081,herbivorous,Late Jurassic 155-145 million years ago,armoured dinosaur,9.0
+4793,Camarasaurus,-109.036133,39.200081,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+4794,Supersaurus,-109.036133,39.200081,herbivorous,Early Cretaceous 154-142 million years ago,sauropod,35.0
+4795,Allosaurus,-109.036133,39.200081,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+4796,Allosaurus,-109.036133,39.200081,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+4797,Diplodocus,-109.036133,39.200081,herbivorous,Late Jurassic 155-145 million years ago,sauropod,26.0
+4813,Brachiosaurus,-108.650299,39.068802,herbivorous,Late Jurassic 155-140 million years ago,sauropod,30.0
+4814,Stegosaurus,-108.647003,39.076099,herbivorous,Late Jurassic 155-145 million years ago,armoured dinosaur,9.0
+4815,Allosaurus,-108.647003,39.076099,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+4816,Brachiosaurus,-108.647003,39.076099,herbivorous,Late Jurassic 155-140 million years ago,sauropod,30.0
+4818,Allosaurus,-105.979721,41.893055,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+4820,Stegosaurus,-105.908501,42.152802,herbivorous,Late Jurassic 155-145 million years ago,armoured dinosaur,9.0
+4821,Diplodocus,-107.779167,44.535557,herbivorous,Late Jurassic 155-145 million years ago,sauropod,26.0
+4822,Stegosaurus,-107.779167,44.535557,herbivorous,Late Jurassic 155-145 million years ago,armoured dinosaur,9.0
+4823,Stegosaurus,-106.021599,41.893101,herbivorous,Late Jurassic 155-145 million years ago,armoured dinosaur,9.0
+4825,Camarasaurus,-106.078903,41.878601,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+4874,Triceratops,-104.5,43.0,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+4876,Triceratops,-104.533302,43.233299,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+4879,Tyrannosaurus,-104.533302,43.166698,carnivorous,Late Cretaceous 68-66 million years ago,large theropod,12.0
+4880,Triceratops,-104.533302,43.166698,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+4881,Megalosaurus,-3.247459,51.020405,carnivorous,Mid Jurassic 170-155 million years ago,large theropod,9.0
+4882,Megalosaurus,-1.833333,51.900002,carnivorous,Mid Jurassic 170-155 million years ago,large theropod,9.0
+4890,Triceratops,-104.5,43.0,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+4893,Megalosaurus,-1.833333,51.900002,carnivorous,Mid Jurassic 170-155 million years ago,large theropod,9.0
+4897,Triceratops,-104.566704,43.0667,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+4899,Triceratops,-104.583298,43.116699,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+4902,Tyrannosaurus,-104.650002,43.266701,carnivorous,Late Cretaceous 68-66 million years ago,large theropod,12.0
+4904,Triceratops,-104.650002,43.266701,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+4907,Triceratops,-104.533302,43.283298,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+4927,Velociraptor,70.701363,40.692711,carnivorous,Late Cretaceous 74-70 million years ago,small theropod,1.8
+4934,Camarasaurus,-106.390556,42.035831,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+4935,Allosaurus,-106.390556,42.035831,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+4936,Apatosaurus,-106.390556,42.035831,herbivorous,Late Jurassic 154-145 million years ago,sauropod,21.0
+4937,Camarasaurus,-106.390556,42.035831,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+4938,Apatosaurus,-106.390556,42.035831,herbivorous,Late Jurassic 154-145 million years ago,sauropod,21.0
+4939,Stegosaurus,-106.390556,42.035831,herbivorous,Late Jurassic 155-145 million years ago,armoured dinosaur,9.0
+4940,Diplodocus,-105.916199,42.152302,herbivorous,Late Jurassic 155-145 million years ago,sauropod,26.0
+4942,Stegosaurus,-105.886398,42.146099,herbivorous,Late Jurassic 155-145 million years ago,armoured dinosaur,9.0
+4944,Stegosaurus,-105.908424,42.149494,herbivorous,Late Jurassic 155-145 million years ago,armoured dinosaur,9.0
+4945,Camarasaurus,-105.908501,42.152802,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+4947,Allosaurus,-105.963402,41.9077,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+4948,Camarasaurus,-105.963402,41.9077,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+4949,Apatosaurus,-105.963402,41.9077,herbivorous,Late Jurassic 154-145 million years ago,sauropod,21.0
+4950,Diplodocus,-105.963402,41.9077,herbivorous,Late Jurassic 155-145 million years ago,sauropod,26.0
+4951,Diplodocus,-103.344597,44.184399,herbivorous,Late Jurassic 155-145 million years ago,sauropod,26.0
+4954,Allosaurus,-103.377998,44.23307,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+4955,Allosaurus,-107.58699,34.898651,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+4956,Allosaurus,-109.1651,40.504601,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+4957,Camarasaurus,-109.1651,40.504601,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+4960,Stegosaurus,-109.1651,40.504601,herbivorous,Late Jurassic 155-145 million years ago,armoured dinosaur,9.0
+4971,Triceratops,-100.630096,46.086899,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+4977,Megalosaurus,-3.247459,51.020405,carnivorous,Mid Jurassic 170-155 million years ago,large theropod,9.0
+4979,Iguanodon,-0.846389,51.801109,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+4980,Iguanodon,-0.35,51.133331,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+4987,Iguanodon,0.605132,50.936321,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+5074,Camarasaurus,-104.240555,44.021111,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+5075,Camarasaurus,-109.207924,44.839115,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+5076,Allosaurus,-106.780556,43.649166,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+5077,Camarasaurus,-106.780556,43.649166,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+5078,Apatosaurus,-106.780556,43.649166,herbivorous,Late Jurassic 154-145 million years ago,sauropod,21.0
+5079,Diplodocus,-106.780556,43.649166,herbivorous,Late Jurassic 155-145 million years ago,sauropod,26.0
+5081,Allosaurus,-106.778,44.087002,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+5083,Camarasaurus,-106.778,44.087002,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+5084,Apatosaurus,-106.778,44.087002,herbivorous,Late Jurassic 154-145 million years ago,sauropod,21.0
+5085,Diplodocus,-106.778,44.087002,herbivorous,Late Jurassic 155-145 million years ago,sauropod,26.0
+5087,Stegosaurus,-106.778,44.087002,herbivorous,Late Jurassic 155-145 million years ago,armoured dinosaur,9.0
+5089,Camarasaurus,-104.613014,44.677483,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+5090,Apatosaurus,-106.3153,42.181629,herbivorous,Late Jurassic 154-145 million years ago,sauropod,21.0
+5091,Diplodocus,-106.3153,42.181629,herbivorous,Late Jurassic 155-145 million years ago,sauropod,26.0
+5092,Apatosaurus,-110.813889,38.25222,herbivorous,Late Jurassic 154-145 million years ago,sauropod,21.0
+5093,Stegosaurus,-109.524025,40.456348,herbivorous,Late Jurassic 155-145 million years ago,armoured dinosaur,9.0
+5094,Allosaurus,-109.741203,38.710346,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+5095,Camarasaurus,-109.741203,38.710346,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+5096,Stegosaurus,-109.741203,38.710346,herbivorous,Late Jurassic 155-145 million years ago,armoured dinosaur,9.0
+5098,Camarasaurus,-109.935837,38.924442,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+5099,Diplodocus,-109.320557,38.970001,herbivorous,Late Jurassic 155-145 million years ago,sauropod,26.0
+5100,Spinosaurus,-5.2,30.033333,carnivorous,Late Cretaceous 95-70 million years ago,large theropod,18.0
+5102,Allosaurus,-111.1502,38.8396,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+5104,Allosaurus,-105.231598,38.547501,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+5112,Carcharodontosaurus,5.616667,17.933332,carnivorous,Late Cretaceous 98-94 million years ago,large theropod,15.0
+5113,Spinosaurus,5.616667,17.933332,carnivorous,Late Cretaceous 95-70 million years ago,large theropod,18.0
+5186,Troodon,-111.397003,50.7206,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+5189,Allosaurus,-106.145699,41.98,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+5190,Camarasaurus,-106.145699,41.98,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+5191,Diplodocus,-106.145699,41.98,herbivorous,Late Jurassic 155-145 million years ago,sauropod,26.0
+5250,Parasaurolophus,-111.565781,50.742214,herbivorous,Late Cretaceous 76-74 million years ago,euornithopod,11.0
+5259,Camarasaurus,-109.300552,40.441387,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+5301,Iguanodon,-0.666667,40.666668,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+5302,Iguanodon,-0.666667,40.666668,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+5304,Iguanodon,-0.883872,40.645859,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+5305,Iguanodon,-0.883872,40.645859,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+5345,Megalosaurus,-0.241701,52.552071,carnivorous,Mid Jurassic 170-155 million years ago,large theropod,9.0
+5371,Styracosaurus,-111.575905,50.741257,herbivorous,Late Cretaceous 76-70 million years ago,ceratopsian,5.5
+5372,Pachycephalosaurus,-111.575905,50.741257,herbivorous,Late Cretaceous 76-65 million years ago,euornithopod,8.0
+5401,Carcharodontosaurus,0.83333,32.716671,carnivorous,Late Cretaceous 98-94 million years ago,large theropod,15.0
+5408,Megalosaurus,-1.432222,51.851944,carnivorous,Mid Jurassic 170-155 million years ago,large theropod,9.0
+5409,Megalosaurus,-2.36,51.375832,carnivorous,Mid Jurassic 170-155 million years ago,large theropod,9.0
+5419,Tyrannosaurus,-103.624443,45.65139,carnivorous,Late Cretaceous 68-66 million years ago,large theropod,12.0
+5427,Troodon,177.070831,62.873798,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+5454,Iguanodon,-0.321944,51.13361,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+5455,Carcharodontosaurus,0.25,29.25,carnivorous,Late Cretaceous 98-94 million years ago,large theropod,15.0
+5456,Carcharodontosaurus,0.25,29.25,carnivorous,Late Cretaceous 98-94 million years ago,large theropod,15.0
+5482,Megalosaurus,-1.608333,51.941666,carnivorous,Mid Jurassic 170-155 million years ago,large theropod,9.0
+5499,Triceratops,-104.411598,43.441799,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+5507,Spinosaurus,-3.855,30.905001,carnivorous,Late Cretaceous 95-70 million years ago,large theropod,18.0
+5508,Suchomimus,9.1,16.416668,carnivorous,Early Cretaceous 121-112 million years ago,large theropod,11.0
+5513,Yangchuanosaurus,105.683334,29.333332,carnivorous,Late Jurassic 160-144 million years ago,large theropod,10.0
+5520,Tyrannosaurus,-107.083298,47.5667,carnivorous,Late Cretaceous 68-66 million years ago,large theropod,12.0
+5524,Tyrannosaurus,-104.697777,43.36861,carnivorous,Late Cretaceous 68-66 million years ago,large theropod,12.0
+5553,Psittacosaurus,85.666702,46.099998,herbivorous,Early Cretaceous 120-100 million years ago,ceratopsian,2.0
+5617,Troodon,-112.878609,51.538891,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+5637,Tyrannosaurus,-107.083,47.536201,carnivorous,Late Cretaceous 68-66 million years ago,large theropod,12.0
+5638,Tyrannosaurus,-107.083,47.536201,carnivorous,Late Cretaceous 68-66 million years ago,large theropod,12.0
+5647,Allosaurus,-105.192596,39.675598,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+5671,Iguanodon,0.424167,40.493332,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+5678,Iguanodon,-0.096944,40.632221,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+5682,Iguanodon,-0.739722,40.243057,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+5692,Troodon,130.859451,49.082779,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+5743,Troodon,-112.642403,48.935501,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+5756,Troodon,-111.6175,50.790558,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+5764,Psittacosaurus,106.274719,51.195557,herbivorous,Early Cretaceous 120-100 million years ago,ceratopsian,2.0
+5833,Tyrannosaurus,-105.239166,42.648609,carnivorous,Late Cretaceous 68-66 million years ago,large theropod,12.0
+5847,Iguanodon,-1.41035,50.635109,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+5861,Parasaurolophus,-108.109444,36.142776,herbivorous,Late Cretaceous 76-74 million years ago,euornithopod,11.0
+5897,Ankylosaurus,-108.082779,36.333889,herbivorous,Late Cretaceous 74-67 million years ago,armoured dinosaur,7.0
+5905,Pentaceratops,-107.9058,36.1693,herbivorous,Late Cretaceous 76-74 million years ago,ceratopsian,6.8
+5914,Allosaurus,-107.814163,44.632221,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+5916,Stegosaurus,-107.814163,44.632221,herbivorous,Late Jurassic 155-145 million years ago,armoured dinosaur,9.0
+5917,Camarasaurus,-107.814163,44.632221,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+5943,Velociraptor,103.26667,44.216667,carnivorous,Late Cretaceous 74-70 million years ago,small theropod,1.8
+5973,Velociraptor,103.56472,44.127499,carnivorous,Late Cretaceous 74-70 million years ago,small theropod,1.8
+6006,Velociraptor,104.0,44.0,carnivorous,Late Cretaceous 74-70 million years ago,small theropod,1.8
+6084,Ceratosaurus,-110.898888,38.863888,carnivorous,Late Jurassic 153-148 million years ago,large theropod,6.0
+6087,Pentaceratops,-107.889198,36.1861,herbivorous,Late Cretaceous 76-74 million years ago,ceratopsian,6.8
+6088,Pentaceratops,-108.084198,36.3148,herbivorous,Late Cretaceous 76-74 million years ago,ceratopsian,6.8
+6115,Troodon,-112.772202,51.484501,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+6116,Troodon,-111.421799,49.985802,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+6117,Troodon,-111.488899,50.742401,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+6132,Iguanodon,-0.097778,40.618889,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+6139,Triceratops,-104.736389,47.053612,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+6140,Triceratops,-105.118057,46.258057,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+6155,Pachycephalosaurus,-101.480698,45.668301,herbivorous,Late Cretaceous 76-65 million years ago,euornithopod,8.0
+6156,Troodon,-108.946945,47.772221,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+6157,Pachycephalosaurus,-104.411598,43.441799,herbivorous,Late Cretaceous 76-65 million years ago,euornithopod,8.0
+6158,Pachycephalosaurus,-104.553329,43.15778,herbivorous,Late Cretaceous 76-65 million years ago,euornithopod,8.0
+6192,Iguanodon,-1.476667,50.661667,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+6194,Iguanodon,-1.13,50.665001,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+6195,Iguanodon,-1.13,50.665001,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+6254,Iguanodon,0.690278,50.886112,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+6308,Camarasaurus,-105.192596,39.675598,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+6328,Iguanodon,1.611667,50.769722,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+6330,Triceratops,-106.203613,47.750557,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+6370,Carcharodontosaurus,10.255789,33.172859,carnivorous,Late Cretaceous 98-94 million years ago,large theropod,15.0
+6371,Spinosaurus,10.255789,33.172859,carnivorous,Late Cretaceous 95-70 million years ago,large theropod,18.0
+6386,Camarasaurus,-108.184586,43.622528,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+6387,Diplodocus,-108.184586,43.622528,herbivorous,Late Jurassic 155-145 million years ago,sauropod,26.0
+6388,Apatosaurus,-108.184586,43.622528,herbivorous,Late Jurassic 154-145 million years ago,sauropod,21.0
+6398,Pachycephalosaurus,-102.090607,45.096218,herbivorous,Late Cretaceous 76-65 million years ago,euornithopod,8.0
+6414,Troodon,-111.531418,50.75544,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+6430,Troodon,-111.510078,50.748341,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+6433,Troodon,-111.458488,50.749004,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+6438,Troodon,-111.494652,50.736988,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+6511,Troodon,-111.371368,50.757702,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+6518,Troodon,-111.486366,50.724751,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+6530,Troodon,-110.075409,50.73262,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+6534,Troodon,-110.385658,51.438782,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+6556,Troodon,-111.408257,50.751221,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+6560,Troodon,-111.457657,50.772888,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+6567,Troodon,-111.513901,50.754761,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+6637,Triceratops,-108.084198,36.343899,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+6638,Dilophosaurus,-111.027779,35.679169,carnivorous,Early Jurassic 190 million years ago,large theropod,6.0
+6643,Camarasaurus,-108.995796,39.2383,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+6644,Camarasaurus,-108.774719,39.167778,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+6645,Diplodocus,-108.99778,38.502777,herbivorous,Late Jurassic 155-145 million years ago,sauropod,26.0
+6646,Camarasaurus,-105.224701,38.539501,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+6647,Brachiosaurus,-106.048615,42.017776,herbivorous,Late Jurassic 155-140 million years ago,sauropod,30.0
+6648,Apatosaurus,-107.779167,44.535557,herbivorous,Late Jurassic 154-145 million years ago,sauropod,21.0
+6649,Camarasaurus,-106.823196,35.515598,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+6759,Spinosaurus,-44.461399,-2.4781,carnivorous,Late Cretaceous 95-70 million years ago,large theropod,18.0
+6811,Tyrannosaurus,-103.159576,29.438757,carnivorous,Late Cretaceous 68-66 million years ago,large theropod,12.0
+6812,Torosaurus,-103.159576,29.438757,herbivorous,Late Cretaceous 70-65 million years ago,ceratopsian,7.5
+6823,Tyrannosaurus,-109.651108,47.398056,carnivorous,Late Cretaceous 68-66 million years ago,large theropod,12.0
+6837,Tyrannosaurus,-101.626297,45.530899,carnivorous,Late Cretaceous 68-66 million years ago,large theropod,12.0
+6838,Diplodocus,-108.826668,45.22361,herbivorous,Late Jurassic 155-145 million years ago,sauropod,26.0
+6843,Psittacosaurus,99.172218,45.215557,herbivorous,Early Cretaceous 120-100 million years ago,ceratopsian,2.0
+6851,Allosaurus,-104.240555,44.021111,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+6852,Troodon,-109.636551,47.718712,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+6853,Apatosaurus,-110.22583,36.100834,herbivorous,Late Jurassic 154-145 million years ago,sauropod,21.0
+6855,Allosaurus,-105.208885,38.503334,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+6856,Allosaurus,-106.558609,39.952778,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+6857,Apatosaurus,-107.334442,38.452778,herbivorous,Late Jurassic 154-145 million years ago,sauropod,21.0
+6858,Allosaurus,-107.334442,38.452778,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+6859,Allosaurus,-105.210831,40.487499,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+6860,Camarasaurus,-103.520279,37.305832,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+6861,Camarasaurus,-108.477219,38.853611,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+6862,Allosaurus,-108.477219,38.853611,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+6863,Apatosaurus,-108.477219,38.853611,herbivorous,Late Jurassic 154-145 million years ago,sauropod,21.0
+6864,Camarasaurus,-108.477219,38.853611,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+6865,Stegosaurus,-108.826668,45.22361,herbivorous,Late Jurassic 155-145 million years ago,armoured dinosaur,9.0
+6866,Allosaurus,-106.823196,35.515598,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+6878,Psittacosaurus,102.733299,44.241501,herbivorous,Early Cretaceous 120-100 million years ago,ceratopsian,2.0
+6909,Troodon,127.47583,50.27,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+6947,Megalosaurus,-1.298558,51.860378,carnivorous,Mid Jurassic 170-155 million years ago,large theropod,9.0
+6949,Pachycephalosaurus,120.679169,36.881653,herbivorous,Late Cretaceous 76-65 million years ago,euornithopod,8.0
+6965,Camarasaurus,-108.769997,39.146,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+6966,Diplodocus,-108.769997,39.146,herbivorous,Late Jurassic 155-145 million years ago,sauropod,26.0
+6967,Apatosaurus,-108.769997,39.146,herbivorous,Late Jurassic 154-145 million years ago,sauropod,21.0
+6968,Brachiosaurus,-108.769997,39.146,herbivorous,Late Jurassic 155-140 million years ago,sauropod,30.0
+6969,Stegosaurus,-108.769997,39.146,herbivorous,Late Jurassic 155-145 million years ago,armoured dinosaur,9.0
+7028,Velociraptor,112.420006,40.040001,carnivorous,Late Cretaceous 74-70 million years ago,small theropod,1.8
+7049,Brachiosaurus,39.228508,-9.708957,herbivorous,Late Jurassic 155-140 million years ago,sauropod,30.0
+7056,Pachycephalosaurus,-104.471497,43.384399,herbivorous,Late Cretaceous 76-65 million years ago,euornithopod,8.0
+7058,Iguanodon,-1.4542,50.6478,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+7059,Iguanodon,-1.460302,50.651852,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+7060,Iguanodon,-1.428409,50.638515,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+7061,Iguanodon,-1.951077,50.604607,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+7070,Iguanodon,-9.216667,38.400002,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+7082,Psittacosaurus,120.764221,41.783817,herbivorous,Early Cretaceous 120-100 million years ago,ceratopsian,2.0
+7109,Stegosaurus,-8.812128,39.662338,herbivorous,Late Jurassic 155-145 million years ago,armoured dinosaur,9.0
+7164,Triceratops,-104.82,39.985279,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+7167,Allosaurus,-106.07917,41.901386,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+7168,Allosaurus,-106.07917,41.901386,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+7178,Tyrannosaurus,-103.451668,45.062778,carnivorous,Late Cretaceous 68-66 million years ago,large theropod,12.0
+7180,Triceratops,-103.451668,45.062778,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+7242,Iguanodon,-0.405586,40.528027,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+7247,Iguanodon,-2.067325,40.590469,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+7248,Iguanodon,-0.527039,40.718224,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+7250,Iguanodon,-0.411057,40.745499,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+7347,Tyrannosaurus,-106.099998,47.799999,carnivorous,Late Cretaceous 68-66 million years ago,large theropod,12.0
+7350,Triceratops,-106.099998,47.799999,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+7352,Supersaurus,-105.439041,42.629375,herbivorous,Early Cretaceous 154-142 million years ago,sauropod,35.0
+7380,Megalosaurus,-1.646641,51.979805,carnivorous,Mid Jurassic 170-155 million years ago,large theropod,9.0
+7411,Pachycephalosaurus,-107.0,41.799999,herbivorous,Late Cretaceous 76-65 million years ago,euornithopod,8.0
+7413,Ankylosaurus,-107.0,41.799999,herbivorous,Late Cretaceous 74-67 million years ago,armoured dinosaur,7.0
+7421,Tyrannosaurus,-106.890236,41.934753,carnivorous,Late Cretaceous 68-66 million years ago,large theropod,12.0
+7429,Ankylosaurus,-106.891731,41.94062,herbivorous,Late Cretaceous 74-67 million years ago,armoured dinosaur,7.0
+7431,Tyrannosaurus,-107.0,41.799999,carnivorous,Late Cretaceous 68-66 million years ago,large theropod,12.0
+7440,Ankylosaurus,-106.881096,41.935242,herbivorous,Late Cretaceous 74-67 million years ago,armoured dinosaur,7.0
+7443,Troodon,-106.853416,41.938137,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+7459,Troodon,-106.88224,41.935326,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+7466,Troodon,-106.88501,41.953903,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+7476,Ankylosaurus,-106.876312,41.939877,herbivorous,Late Cretaceous 74-67 million years ago,armoured dinosaur,7.0
+7481,Tyrannosaurus,-106.876312,41.939877,carnivorous,Late Cretaceous 68-66 million years ago,large theropod,12.0
+7486,Troodon,-106.89241,41.939758,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+7487,Ankylosaurus,-106.89241,41.939758,herbivorous,Late Cretaceous 74-67 million years ago,armoured dinosaur,7.0
+7491,Troodon,-106.89241,41.939758,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+7500,Tyrannosaurus,-106.88224,41.935326,carnivorous,Late Cretaceous 68-66 million years ago,large theropod,12.0
+7506,Camarasaurus,-105.85611,42.196388,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+7507,Apatosaurus,-105.85611,42.196388,herbivorous,Late Jurassic 154-145 million years ago,sauropod,21.0
+7508,Diplodocus,-105.85611,42.196388,herbivorous,Late Jurassic 155-145 million years ago,sauropod,26.0
+7509,Stegosaurus,-105.85611,42.196388,herbivorous,Late Jurassic 155-145 million years ago,armoured dinosaur,9.0
+7515,Psittacosaurus,121.2481,41.533611,herbivorous,Early Cretaceous 120-100 million years ago,ceratopsian,2.0
+7521,Psittacosaurus,120.95137,41.584137,herbivorous,Early Cretaceous 120-100 million years ago,ceratopsian,2.0
+7529,Megalosaurus,-2.45,50.599998,carnivorous,Mid Jurassic 170-155 million years ago,large theropod,9.0
+7536,Dilophosaurus,79.533333,19.25,carnivorous,Early Jurassic 190 million years ago,large theropod,6.0
+7567,Stegosaurus,-110.991669,39.068333,herbivorous,Late Jurassic 155-145 million years ago,armoured dinosaur,9.0
+7580,Parasaurolophus,-111.511574,50.733292,herbivorous,Late Cretaceous 76-74 million years ago,euornithopod,11.0
+7648,Pentaceratops,-108.846741,40.031628,herbivorous,Late Cretaceous 76-74 million years ago,ceratopsian,6.8
+7695,Styracosaurus,-110.243889,48.026382,herbivorous,Late Cretaceous 76-70 million years ago,ceratopsian,5.5
+7696,Styracosaurus,-111.23143,50.820862,herbivorous,Late Cretaceous 76-70 million years ago,ceratopsian,5.5
+7697,Styracosaurus,-111.322235,50.81678,herbivorous,Late Cretaceous 76-70 million years ago,ceratopsian,5.5
+7698,Styracosaurus,-111.551857,50.746986,herbivorous,Late Cretaceous 76-70 million years ago,ceratopsian,5.5
+7756,Microraptor,120.427139,43.636063,carnivorous,Early Cretaceous 125-122 million years ago,small theropod,0.8
+7819,Psittacosaurus,102.733299,44.241501,herbivorous,Early Cretaceous 120-100 million years ago,ceratopsian,2.0
+7868,Iguanodon,-1.954561,50.620792,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+7869,Iguanodon,-2.464766,50.66465,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+7870,Iguanodon,-2.464579,50.66798,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+7872,Megalosaurus,-2.464579,50.66798,carnivorous,Mid Jurassic 170-155 million years ago,large theropod,9.0
+7892,Triceratops,-106.924721,47.583611,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+7893,Triceratops,-106.276939,47.653889,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+7950,Iguanodon,-0.800075,51.001877,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+7993,Megalosaurus,-1.429167,51.863335,carnivorous,Mid Jurassic 170-155 million years ago,large theropod,9.0
+7996,Iguanodon,0.623302,50.861614,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+8012,Psittacosaurus,120.95137,41.584137,herbivorous,Early Cretaceous 120-100 million years ago,ceratopsian,2.0
+8033,Velociraptor,106.723892,41.788055,carnivorous,Late Cretaceous 74-70 million years ago,small theropod,1.8
+8104,Velociraptor,103.30278,44.228333,carnivorous,Late Cretaceous 74-70 million years ago,small theropod,1.8
+8156,Allosaurus,-107.831299,35.428398,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+8245,Torosaurus,-103.159576,29.438757,herbivorous,Late Cretaceous 70-65 million years ago,ceratopsian,7.5
+8399,Troodon,-112.883331,51.995834,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+8612,Psittacosaurus,101.733887,45.395,herbivorous,Early Cretaceous 120-100 million years ago,ceratopsian,2.0
+8702,Troodon,-151.496674,70.089996,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+8705,Pachycephalosaurus,-104.831749,45.765656,herbivorous,Late Cretaceous 76-65 million years ago,euornithopod,8.0
+8706,Pachycephalosaurus,-104.773071,45.787891,herbivorous,Late Cretaceous 76-65 million years ago,euornithopod,8.0
+8707,Triceratops,-104.891388,45.730145,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+8708,Tyrannosaurus,-104.891388,45.730145,carnivorous,Late Cretaceous 68-66 million years ago,large theropod,12.0
+8722,Iguanodon,-2.02547,40.547516,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+8738,Iguanodon,0.424167,40.493332,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+8741,Iguanodon,0.424167,40.493332,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+8742,Iguanodon,0.424167,40.493332,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+8745,Iguanodon,0.424167,40.493332,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+8762,Troodon,-118.510719,55.260429,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+8772,Troodon,-118.512512,55.254459,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+8809,Psittacosaurus,102.416664,42.450001,herbivorous,Early Cretaceous 120-100 million years ago,ceratopsian,2.0
+8813,Megalosaurus,5.97,47.285,carnivorous,Mid Jurassic 170-155 million years ago,large theropod,9.0
+8816,Deinonychus,-76.868477,39.070869,carnivorous,Early Cretaceous 120-110 million years ago,small theropod,3.0
+8837,Psittacosaurus,107.262779,38.927502,herbivorous,Early Cretaceous 120-100 million years ago,ceratopsian,2.0
+8844,Pachycephalosaurus,-104.917351,45.103661,herbivorous,Late Cretaceous 76-65 million years ago,euornithopod,8.0
+9059,Camarasaurus,-110.687622,39.32399,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+9066,Megalosaurus,0.514167,50.900276,carnivorous,Mid Jurassic 170-155 million years ago,large theropod,9.0
+9067,Iguanodon,0.514167,50.900276,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+9068,Megalosaurus,-0.796329,54.134842,carnivorous,Mid Jurassic 170-155 million years ago,large theropod,9.0
+9069,Megalosaurus,-1.323881,51.700703,carnivorous,Mid Jurassic 170-155 million years ago,large theropod,9.0
+9071,Iguanodon,0.2,52.116699,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+9073,Megalosaurus,0.2,52.116699,carnivorous,Mid Jurassic 170-155 million years ago,large theropod,9.0
+9087,Iguanodon,-2.246667,50.623333,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+9145,Psittacosaurus,120.913269,41.603352,herbivorous,Early Cretaceous 120-100 million years ago,ceratopsian,2.0
+9202,Maiasaura,-112.276108,47.990002,herbivorous,Late Cretaceous 80-75 million years ago,euornithopod,9.0
+9204,Psittacosaurus,102.933296,16.383329,herbivorous,Early Cretaceous 120-100 million years ago,ceratopsian,2.0
+9341,Troodon,-119.108101,55.0639,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+9374,Iguanodon,0.4425,50.859444,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+9396,Brachiosaurus,-109.223335,40.405556,herbivorous,Late Jurassic 155-140 million years ago,sauropod,30.0
+9414,Microraptor,120.427139,43.636063,carnivorous,Early Cretaceous 125-122 million years ago,small theropod,0.8
+9436,Troodon,-109.814911,48.53841,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+9437,Troodon,-112.664299,47.8214,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+9441,Psittacosaurus,104.065002,40.994999,herbivorous,Early Cretaceous 120-100 million years ago,ceratopsian,2.0
+9449,Triceratops,-108.066399,36.343899,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+9450,Triceratops,-108.066399,36.343899,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+9453,Triceratops,-103.560928,45.713463,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+9454,Troodon,-151.51944,69.832222,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+9522,Spinosaurus,29.290556,25.617779,carnivorous,Late Cretaceous 95-70 million years ago,large theropod,18.0
+9523,Carcharodontosaurus,29.290556,25.617779,carnivorous,Late Cretaceous 98-94 million years ago,large theropod,15.0
+9524,Spinosaurus,29.519444,25.493055,carnivorous,Late Cretaceous 95-70 million years ago,large theropod,18.0
+9532,Microraptor,120.158333,41.572224,carnivorous,Early Cretaceous 125-122 million years ago,small theropod,0.8
+9572,Triceratops,-105.300003,45.383331,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+9691,Troodon,-104.637001,43.116329,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+9694,Triceratops,-107.115555,47.546665,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+9756,Deinonychus,-107.893501,44.6586,carnivorous,Early Cretaceous 120-110 million years ago,small theropod,3.0
+9849,Camarasaurus,-109.337975,38.38448,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+10028,Triceratops,-106.186111,47.62389,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+10029,Triceratops,-106.099998,47.799999,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+10030,Triceratops,-106.194725,47.555279,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+10222,Iguanodon,9.110278,52.260555,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+10247,Allosaurus,-106.920998,35.563457,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+10252,Iguanodon,22.4,46.950001,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+10253,Iguanodon,22.4,46.950001,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+10254,Deinonychus,-108.811302,45.2262,carnivorous,Early Cretaceous 120-110 million years ago,small theropod,3.0
+10255,Iguanodon,-1.440833,52.72139,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+10349,Brachiosaurus,39.223057,-9.70583,herbivorous,Late Jurassic 155-140 million years ago,sauropod,30.0
+10561,Triceratops,-108.400002,49.299999,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+10601,Triceratops,-103.900002,45.833332,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+10993,Spinosaurus,-4.2,31.57,carnivorous,Late Cretaceous 95-70 million years ago,large theropod,18.0
+11065,Allosaurus,-107.458336,44.051388,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+11067,Camarasaurus,-107.458336,44.051388,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+11068,Brachiosaurus,-107.458336,44.051388,herbivorous,Late Jurassic 155-140 million years ago,sauropod,30.0
+11070,Ceratosaurus,-107.458336,44.051388,carnivorous,Late Jurassic 153-148 million years ago,large theropod,6.0
+11155,Velociraptor,103.72139,44.145279,carnivorous,Late Cretaceous 74-70 million years ago,small theropod,1.8
+11213,Camarasaurus,-103.306946,44.474445,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+11215,Camarasaurus,-103.306946,44.474445,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+11220,Microraptor,120.225601,41.494999,carnivorous,Early Cretaceous 125-122 million years ago,small theropod,0.8
+11257,Suchomimus,9.117778,16.437778,carnivorous,Early Cretaceous 121-112 million years ago,large theropod,11.0
+11279,Troodon,-112.883331,51.995834,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+11290,Spinosaurus,35.814999,4.273056,carnivorous,Late Cretaceous 95-70 million years ago,large theropod,18.0
+11350,Camarasaurus,-108.391647,40.455929,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+11351,Diplodocus,-108.391647,40.455929,herbivorous,Late Jurassic 155-145 million years ago,sauropod,26.0
+11357,Iguanodon,9.068611,52.250278,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+11372,Dilophosaurus,-111.26667,36.066666,carnivorous,Early Jurassic 190 million years ago,large theropod,6.0
+11395,Deinonychus,-107.879997,44.651112,carnivorous,Early Cretaceous 120-110 million years ago,small theropod,3.0
+11397,Deinonychus,-107.898888,44.511665,carnivorous,Early Cretaceous 120-110 million years ago,small theropod,3.0
+11399,Deinonychus,-107.902222,44.513332,carnivorous,Early Cretaceous 120-110 million years ago,small theropod,3.0
+11402,Sauropelta,-107.902222,44.513332,herbivorous,Early Cretaceous 121-94 million years ago,armoured dinosaur,6.5
+11403,Deinonychus,-107.822037,44.499119,carnivorous,Early Cretaceous 120-110 million years ago,small theropod,3.0
+11405,Sauropelta,-107.822037,44.499119,herbivorous,Early Cretaceous 121-94 million years ago,armoured dinosaur,6.5
+11411,Deinonychus,-108.311668,44.828888,carnivorous,Early Cretaceous 120-110 million years ago,small theropod,3.0
+11412,Deinonychus,-108.805275,45.19278,carnivorous,Early Cretaceous 120-110 million years ago,small theropod,3.0
+11414,Deinonychus,-108.802223,45.192501,carnivorous,Early Cretaceous 120-110 million years ago,small theropod,3.0
+11424,Triceratops,-103.50222,46.413055,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+11437,Tyrannosaurus,-103.50222,46.413055,carnivorous,Late Cretaceous 68-66 million years ago,large theropod,12.0
+11439,Triceratops,-103.50222,46.413055,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+11442,Tyrannosaurus,-103.50222,46.413055,carnivorous,Late Cretaceous 68-66 million years ago,large theropod,12.0
+11451,Psittacosaurus,108.446671,45.830276,herbivorous,Early Cretaceous 120-100 million years ago,ceratopsian,2.0
+11494,Allosaurus,-9.334167,39.283611,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+11539,Camarasaurus,-110.813889,38.25222,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+11540,Stegosaurus,-110.813889,38.25222,herbivorous,Late Jurassic 155-145 million years ago,armoured dinosaur,9.0
+11541,Allosaurus,-110.813889,38.25222,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+11542,Brachiosaurus,-110.813889,38.25222,herbivorous,Late Jurassic 155-140 million years ago,sauropod,30.0
+11544,Diplodocus,-110.813889,38.25222,herbivorous,Late Jurassic 155-145 million years ago,sauropod,26.0
+11545,Ampelosaurus,-2.021356,39.950359,herbivorous,Late Cretaceous 71-65 million years ago,sauropod,15.0
+11576,Parasaurolophus,-108.209099,36.343899,herbivorous,Late Cretaceous 76-74 million years ago,euornithopod,11.0
+11594,Megalosaurus,4.833333,48.766666,carnivorous,Mid Jurassic 170-155 million years ago,large theropod,9.0
+11598,Megalosaurus,0.340375,46.580223,carnivorous,Mid Jurassic 170-155 million years ago,large theropod,9.0
+11599,Megalosaurus,5.002956,49.109325,carnivorous,Mid Jurassic 170-155 million years ago,large theropod,9.0
+11600,Megalosaurus,5.024955,49.221294,carnivorous,Mid Jurassic 170-155 million years ago,large theropod,9.0
+11629,Megalosaurus,0.0,49.316669,carnivorous,Mid Jurassic 170-155 million years ago,large theropod,9.0
+11630,Megalosaurus,0.0,49.316669,carnivorous,Mid Jurassic 170-155 million years ago,large theropod,9.0
+11660,Megalosaurus,5.662474,47.64642,carnivorous,Mid Jurassic 170-155 million years ago,large theropod,9.0
+11663,Tyrannosaurus,-104.494812,43.422287,carnivorous,Late Cretaceous 68-66 million years ago,large theropod,12.0
+11668,Diplodocus,-106.421387,44.037498,herbivorous,Late Jurassic 155-145 million years ago,sauropod,26.0
+11669,Diplodocus,-106.048615,42.017776,herbivorous,Late Jurassic 155-145 million years ago,sauropod,26.0
+11670,Apatosaurus,-106.048615,42.017776,herbivorous,Late Jurassic 154-145 million years ago,sauropod,21.0
+11679,Stegosaurus,-109.300552,40.441387,herbivorous,Late Jurassic 155-145 million years ago,armoured dinosaur,9.0
+11703,Triceratops,-104.192398,45.482071,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+11704,Triceratops,-104.494812,43.422287,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+11706,Triceratops,-107.115555,47.546665,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+11715,Tyrannosaurus,-105.240425,45.349419,carnivorous,Late Cretaceous 68-66 million years ago,large theropod,12.0
+11724,Styracosaurus,-111.548187,50.710037,herbivorous,Late Cretaceous 76-70 million years ago,ceratopsian,5.5
+11818,Iguanodon,-1.967718,50.603161,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+11836,Yangchuanosaurus,105.300003,30.15,carnivorous,Late Jurassic 160-144 million years ago,large theropod,10.0
+11850,Iguanodon,-0.570278,51.236111,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+11851,Iguanodon,0.254722,52.308056,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+11934,Triceratops,-103.6996,45.393398,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+11935,Triceratops,-103.7201,45.407902,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+11936,Triceratops,-103.504295,45.516338,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+11943,Triceratops,-104.553055,43.15778,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+11946,Triceratops,-104.5,43.0,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+11974,Tyrannosaurus,-108.853798,44.935799,carnivorous,Late Cretaceous 68-66 million years ago,large theropod,12.0
+12010,Troodon,-111.300003,50.733334,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+12011,Troodon,-112.199997,49.283054,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+12012,Troodon,-112.901711,51.652496,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+12013,Troodon,-112.629997,51.41,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+12014,Troodon,-117.415398,55.463501,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+12015,Troodon,-113.806396,53.2635,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+12016,Troodon,-113.151299,51.485699,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+12017,Troodon,-112.865601,51.549999,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+12039,Triceratops,-106.577286,49.052479,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+12040,Triceratops,-108.766602,49.505001,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+12041,Triceratops,-108.3321,49.3414,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+12042,Triceratops,-108.3321,49.3414,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+12043,Torosaurus,-108.3321,49.3414,herbivorous,Late Cretaceous 70-65 million years ago,ceratopsian,7.5
+12068,Iguanodon,0.424167,40.493332,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+12073,Tyrannosaurus,-110.602501,46.885277,carnivorous,Late Cretaceous 68-66 million years ago,large theropod,12.0
+12167,Ampelosaurus,5.733333,43.5,herbivorous,Late Cretaceous 71-65 million years ago,sauropod,15.0
+12169,Camarasaurus,-106.390556,42.035831,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+12170,Stegosaurus,-106.390556,42.035831,herbivorous,Late Jurassic 155-145 million years ago,armoured dinosaur,9.0
+12171,Apatosaurus,-107.458336,44.051388,herbivorous,Late Jurassic 154-145 million years ago,sauropod,21.0
+12173,Diplodocus,-107.458336,44.051388,herbivorous,Late Jurassic 155-145 million years ago,sauropod,26.0
+12217,Deinonychus,-109.273613,38.831944,carnivorous,Early Cretaceous 120-110 million years ago,small theropod,3.0
+12218,Camarasaurus,-108.120003,43.380001,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+12953,Stegosaurus,-107.400002,38.450001,herbivorous,Late Jurassic 155-145 million years ago,armoured dinosaur,9.0
+12954,Camarasaurus,-107.400002,38.450001,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+12955,Allosaurus,-107.400002,38.450001,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+12956,Apatosaurus,-107.400002,38.450001,herbivorous,Late Jurassic 154-145 million years ago,sauropod,21.0
+12957,Allosaurus,-107.400002,38.450001,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+12958,Camarasaurus,-107.400002,38.450001,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+12959,Ceratosaurus,-107.400002,38.450001,carnivorous,Late Jurassic 153-148 million years ago,large theropod,6.0
+12960,Stegosaurus,-107.400002,38.450001,herbivorous,Late Jurassic 155-145 million years ago,armoured dinosaur,9.0
+13080,Tyrannosaurus,-109.0,31.0,carnivorous,Late Cretaceous 68-66 million years ago,large theropod,12.0
+13247,Ceratosaurus,-9.341944,39.201668,carnivorous,Late Jurassic 153-148 million years ago,large theropod,6.0
+13266,Microraptor,120.225601,41.494999,carnivorous,Early Cretaceous 125-122 million years ago,small theropod,0.8
+13290,Tyrannosaurus,-106.255913,47.732971,carnivorous,Late Cretaceous 68-66 million years ago,large theropod,12.0
+13291,Tyrannosaurus,-114.106903,49.607498,carnivorous,Late Cretaceous 68-66 million years ago,large theropod,12.0
+13293,Tyrannosaurus,-101.96788,45.053665,carnivorous,Late Cretaceous 68-66 million years ago,large theropod,12.0
+13307,Iguanodon,-1.376389,50.625,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+13309,Iguanodon,-1.406757,50.633778,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+13324,Iguanodon,0.514942,50.846462,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+13326,Camarasaurus,-110.687622,39.32399,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+13327,Camarasaurus,-110.687622,39.32399,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+13329,Tyrannosaurus,89.85601,42.821259,carnivorous,Late Cretaceous 68-66 million years ago,large theropod,12.0
+13333,Iguanodon,9.068611,52.250278,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+13334,Iguanodon,-1.42502,50.637718,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+13341,Iguanodon,0.609229,50.860706,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+13342,Iguanodon,0.65623,50.868252,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+13343,Iguanodon,-0.161943,51.024998,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+13345,Pachycephalosaurus,-104.932098,45.769901,herbivorous,Late Cretaceous 76-65 million years ago,euornithopod,8.0
+13350,Apatosaurus,-105.908501,42.152802,herbivorous,Late Jurassic 154-145 million years ago,sauropod,21.0
+13351,Stegosaurus,-105.908501,42.152802,herbivorous,Late Jurassic 155-145 million years ago,armoured dinosaur,9.0
+13352,Camarasaurus,-105.908501,42.152802,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+13388,Triceratops,-107.0,47.599998,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+13389,Tyrannosaurus,-107.0,47.599998,carnivorous,Late Cretaceous 68-66 million years ago,large theropod,12.0
+13393,Apatosaurus,-110.687622,39.32399,herbivorous,Late Jurassic 154-145 million years ago,sauropod,21.0
+13394,Ceratosaurus,-110.687622,39.32399,carnivorous,Late Jurassic 153-148 million years ago,large theropod,6.0
+13397,Stegosaurus,-110.687622,39.32399,herbivorous,Late Jurassic 155-145 million years ago,armoured dinosaur,9.0
+13400,Troodon,-112.199997,49.283054,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+13410,Triceratops,-112.981499,52.081001,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+13432,Carcharodontosaurus,-44.461399,-2.4781,carnivorous,Late Cretaceous 98-94 million years ago,large theropod,15.0
+13433,Carcharodontosaurus,-4.665556,31.531668,carnivorous,Late Cretaceous 98-94 million years ago,large theropod,15.0
+13434,Carcharodontosaurus,-4.665556,31.531668,carnivorous,Late Cretaceous 98-94 million years ago,large theropod,15.0
+13435,Spinosaurus,-4.665556,31.531668,carnivorous,Late Cretaceous 95-70 million years ago,large theropod,18.0
+13436,Carcharodontosaurus,-4.08,31.51,carnivorous,Late Cretaceous 98-94 million years ago,large theropod,15.0
+13437,Spinosaurus,-4.08,31.51,carnivorous,Late Cretaceous 95-70 million years ago,large theropod,18.0
+13439,Carcharodontosaurus,-3.861468,30.881699,carnivorous,Late Cretaceous 98-94 million years ago,large theropod,15.0
+13440,Carcharodontosaurus,-3.861468,30.881699,carnivorous,Late Cretaceous 98-94 million years ago,large theropod,15.0
+13441,Spinosaurus,-3.861468,30.881699,carnivorous,Late Cretaceous 95-70 million years ago,large theropod,18.0
+13443,Carcharodontosaurus,-4.3,31.610001,carnivorous,Late Cretaceous 98-94 million years ago,large theropod,15.0
+13444,Spinosaurus,-4.3,31.610001,carnivorous,Late Cretaceous 95-70 million years ago,large theropod,18.0
+13445,Spinosaurus,10.333735,33.110786,carnivorous,Late Cretaceous 95-70 million years ago,large theropod,18.0
+13446,Spinosaurus,-4.17669,31.58778,carnivorous,Late Cretaceous 95-70 million years ago,large theropod,18.0
+13455,Velociraptor,102.909164,44.094166,carnivorous,Late Cretaceous 74-70 million years ago,small theropod,1.8
+13471,Velociraptor,104.0,44.0,carnivorous,Late Cretaceous 74-70 million years ago,small theropod,1.8
+13476,Iguanodon,-0.185004,40.593102,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+13489,Psittacosaurus,108.446671,45.849998,herbivorous,Early Cretaceous 120-100 million years ago,ceratopsian,2.0
+13493,Megalosaurus,14.81222,54.014999,carnivorous,Mid Jurassic 170-155 million years ago,large theropod,9.0
+13494,Iguanodon,9.199823,52.325211,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+13495,Psittacosaurus,111.235275,44.275833,herbivorous,Early Cretaceous 120-100 million years ago,ceratopsian,2.0
+13502,Allosaurus,-106.1073,41.8825,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+13506,Allosaurus,-108.449997,37.200001,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+13509,Triceratops,-104.1978,41.907799,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+13512,Triceratops,-104.1978,41.907799,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+13514,Triceratops,-104.371201,41.7346,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+13528,Megalosaurus,97.327209,31.067663,carnivorous,Mid Jurassic 170-155 million years ago,large theropod,9.0
+13533,Megalosaurus,97.199997,31.1,carnivorous,Mid Jurassic 170-155 million years ago,large theropod,9.0
+13536,Triceratops,-110.626099,41.748199,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+13537,Triceratops,-106.62278,41.834999,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+13538,Triceratops,-106.62278,41.834999,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+13545,Carcharodontosaurus,10.289189,33.190479,carnivorous,Late Cretaceous 98-94 million years ago,large theropod,15.0
+13546,Spinosaurus,10.289189,33.190479,carnivorous,Late Cretaceous 95-70 million years ago,large theropod,18.0
+13551,Allosaurus,5.767404,46.030991,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+13552,Allosaurus,6.159888,46.131725,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+13610,Triceratops,-107.33667,47.656944,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+13668,Iguanodon,-2.386667,42.061111,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+13669,Iguanodon,-2.386667,42.061111,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+13670,Iguanodon,-2.386667,42.061111,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+13671,Megalosaurus,-2.386708,42.061131,carnivorous,Mid Jurassic 170-155 million years ago,large theropod,9.0
+13672,Megalosaurus,-2.386708,42.061131,carnivorous,Mid Jurassic 170-155 million years ago,large theropod,9.0
+13673,Iguanodon,-2.386708,42.061131,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+13674,Megalosaurus,-2.386708,42.061131,carnivorous,Mid Jurassic 170-155 million years ago,large theropod,9.0
+13675,Iguanodon,-2.386708,42.061131,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+13676,Megalosaurus,-2.386708,42.061131,carnivorous,Mid Jurassic 170-155 million years ago,large theropod,9.0
+13678,Diplodocus,-109.300552,40.441387,herbivorous,Late Jurassic 155-145 million years ago,sauropod,26.0
+13679,Diplodocus,-106.07917,41.901386,herbivorous,Late Jurassic 155-145 million years ago,sauropod,26.0
+13703,Maiasaura,-113.75,48.633301,herbivorous,Late Cretaceous 80-75 million years ago,euornithopod,9.0
+13719,Pachycephalosaurus,-112.935257,51.953251,herbivorous,Late Cretaceous 76-65 million years ago,euornithopod,8.0
+13720,Psittacosaurus,88.093056,55.973057,herbivorous,Early Cretaceous 120-100 million years ago,ceratopsian,2.0
+13721,Psittacosaurus,88.318611,55.876667,herbivorous,Early Cretaceous 120-100 million years ago,ceratopsian,2.0
+13744,Psittacosaurus,-102.481392,45.375832,herbivorous,Early Cretaceous 120-100 million years ago,ceratopsian,2.0
+13756,Iguanodon,0.545833,50.855556,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+13765,Velociraptor,103.288887,44.232777,carnivorous,Late Cretaceous 74-70 million years ago,small theropod,1.8
+13806,Velociraptor,107.843613,43.663334,carnivorous,Late Cretaceous 74-70 million years ago,small theropod,1.8
+13809,Iguanodon,-0.217791,40.582836,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+13820,Iguanodon,0.424167,40.493332,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+13821,Iguanodon,0.424167,40.493332,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+13822,Iguanodon,0.424167,40.493332,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+13823,Iguanodon,0.424167,40.493332,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+13857,Ampelosaurus,5.612007,43.48801,herbivorous,Late Cretaceous 71-65 million years ago,sauropod,15.0
+13877,Iguanodon,-0.883872,40.645859,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+13878,Iguanodon,-0.883872,40.645859,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+13881,Iguanodon,-3.173503,42.150997,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+13898,Iguanodon,0.6,50.849998,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+13909,Iguanodon,0.2,52.116699,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+13936,Iguanodon,0.192161,51.053131,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+13958,Parasaurolophus,-108.084167,36.343887,herbivorous,Late Cretaceous 76-74 million years ago,euornithopod,11.0
+13990,Parasaurolophus,-108.084167,36.343613,herbivorous,Late Cretaceous 76-74 million years ago,euornithopod,11.0
+13991,Parasaurolophus,-108.084167,36.343613,herbivorous,Late Cretaceous 76-74 million years ago,euornithopod,11.0
+14079,Megalosaurus,-2.47736,42.227009,carnivorous,Mid Jurassic 170-155 million years ago,large theropod,9.0
+14080,Megalosaurus,-2.47736,42.227009,carnivorous,Mid Jurassic 170-155 million years ago,large theropod,9.0
+14081,Iguanodon,-2.47736,42.227009,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+14082,Iguanodon,-2.47736,42.227009,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+14083,Megalosaurus,-2.47736,42.227009,carnivorous,Mid Jurassic 170-155 million years ago,large theropod,9.0
+14084,Iguanodon,-2.47736,42.227009,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+14085,Megalosaurus,-2.28049,42.2015,carnivorous,Mid Jurassic 170-155 million years ago,large theropod,9.0
+14086,Megalosaurus,-2.28049,42.2015,carnivorous,Mid Jurassic 170-155 million years ago,large theropod,9.0
+14087,Iguanodon,-2.28049,42.2015,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+14088,Megalosaurus,-2.28049,42.2015,carnivorous,Mid Jurassic 170-155 million years ago,large theropod,9.0
+14089,Megalosaurus,-2.28049,42.2015,carnivorous,Mid Jurassic 170-155 million years ago,large theropod,9.0
+14090,Megalosaurus,-2.193568,42.126328,carnivorous,Mid Jurassic 170-155 million years ago,large theropod,9.0
+14091,Triceratops,-106.954697,47.6087,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+14092,Triceratops,-107.018898,47.536201,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+14125,Kentrosaurus,39.230824,-9.709442,herbivorous,Late Jurassic 155-150 million years ago,armoured dinosaur,5.0
+14753,Camarasaurus,-109.223335,40.405556,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+14754,Apatosaurus,-109.223335,40.405556,herbivorous,Late Jurassic 154-145 million years ago,sauropod,21.0
+14756,Stegosaurus,-108.477219,38.853611,herbivorous,Late Jurassic 155-145 million years ago,armoured dinosaur,9.0
+14757,Allosaurus,-106.145699,41.98,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+14758,Camarasaurus,-106.145699,41.98,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+14759,Diplodocus,-106.145699,41.98,herbivorous,Late Jurassic 155-145 million years ago,sauropod,26.0
+14763,Allosaurus,-106.866402,44.0933,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+14764,Camarasaurus,-106.866402,44.0933,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+14765,Diplodocus,-106.866402,44.0933,herbivorous,Late Jurassic 155-145 million years ago,sauropod,26.0
+14766,Apatosaurus,-106.866402,44.0933,herbivorous,Late Jurassic 154-145 million years ago,sauropod,21.0
+14767,Stegosaurus,-106.866402,44.0933,herbivorous,Late Jurassic 155-145 million years ago,armoured dinosaur,9.0
+14768,Camarasaurus,-106.866402,44.0933,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+14769,Allosaurus,-106.866402,44.0933,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+14887,Deinonychus,-108.729599,45.487,carnivorous,Early Cretaceous 120-110 million years ago,small theropod,3.0
+14888,Camarasaurus,-103.676201,37.5322,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+14889,Allosaurus,-103.676201,37.5322,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+14890,Apatosaurus,-103.676201,37.5322,herbivorous,Late Jurassic 154-145 million years ago,sauropod,21.0
+14891,Allosaurus,-108.391647,40.455929,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+14892,Stegosaurus,-108.391647,40.455929,herbivorous,Late Jurassic 155-145 million years ago,armoured dinosaur,9.0
+15093,Torosaurus,-107.192223,33.154167,herbivorous,Late Cretaceous 70-65 million years ago,ceratopsian,7.5
+15099,Psittacosaurus,106.98333,41.5,herbivorous,Early Cretaceous 120-100 million years ago,ceratopsian,2.0
+15100,Psittacosaurus,106.028053,38.963333,herbivorous,Early Cretaceous 120-100 million years ago,ceratopsian,2.0
+15133,Iguanodon,-103.186089,30.426767,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+15158,Velociraptor,99.599998,43.299999,carnivorous,Late Cretaceous 74-70 million years ago,small theropod,1.8
+15164,Psittacosaurus,108.398613,45.845833,herbivorous,Early Cretaceous 120-100 million years ago,ceratopsian,2.0
+15185,Triceratops,-104.192398,45.482071,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+15186,Triceratops,-103.966599,45.393398,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+15188,Triceratops,-103.8424,45.461102,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+15191,Triceratops,-104.559998,47.790001,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+15249,Pachycephalosaurus,-107.350281,47.053055,herbivorous,Late Cretaceous 76-65 million years ago,euornithopod,8.0
+15297,Microraptor,119.683296,40.650002,carnivorous,Early Cretaceous 125-122 million years ago,small theropod,0.8
+15342,Allosaurus,130.844238,32.742764,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+15343,Allosaurus,130.850861,32.748486,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+15350,Allosaurus,8.709167,52.292778,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+15351,Megalosaurus,8.709167,52.292778,carnivorous,Mid Jurassic 170-155 million years ago,large theropod,9.0
+15352,Brachiosaurus,8.709167,52.292778,herbivorous,Late Jurassic 155-140 million years ago,sauropod,30.0
+15356,Camarasaurus,8.709167,52.292778,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+15363,Triceratops,-104.158203,40.759754,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+15482,Tyrannosaurus,-105.080002,45.66,carnivorous,Late Cretaceous 68-66 million years ago,large theropod,12.0
+15488,Triceratops,-105.080002,45.66,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+15490,Triceratops,-105.078613,45.678333,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+15491,Pachycephalosaurus,-105.078613,45.678333,herbivorous,Late Cretaceous 76-65 million years ago,euornithopod,8.0
+15591,Troodon,-111.56308,50.724758,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+15624,Stegosaurus,-108.767174,39.14613,herbivorous,Late Jurassic 155-145 million years ago,armoured dinosaur,9.0
+15625,Allosaurus,-108.728333,39.15889,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+15670,Iguanodon,9.959357,52.341167,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+15739,Tyrannosaurus,-107.083,47.536201,carnivorous,Late Cretaceous 68-66 million years ago,large theropod,12.0
+15740,Psittacosaurus,102.066704,41.416698,herbivorous,Early Cretaceous 120-100 million years ago,ceratopsian,2.0
+15746,Troodon,-109.353058,43.636112,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+15774,Deinonychus,-38.316666,-6.733333,carnivorous,Early Cretaceous 120-110 million years ago,small theropod,3.0
+15791,Stegosaurus,-104.169296,34.9911,herbivorous,Late Jurassic 155-145 million years ago,armoured dinosaur,9.0
+15792,Allosaurus,-107.401108,33.773609,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+15804,Megalosaurus,3.9653,50.488602,carnivorous,Mid Jurassic 170-155 million years ago,large theropod,9.0
+15816,Triceratops,-104.549721,45.889168,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+15817,Tyrannosaurus,-104.549721,45.889168,carnivorous,Late Cretaceous 68-66 million years ago,large theropod,12.0
+15837,Iguanodon,78.849998,11.066667,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+15838,Iguanodon,-0.172222,51.086388,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+15839,Psittacosaurus,109.922005,44.461601,herbivorous,Early Cretaceous 120-100 million years ago,ceratopsian,2.0
+15840,Triceratops,-104.529999,43.34,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+15844,Triceratops,-106.294937,47.767094,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+15874,Iguanodon,-0.2,50.983299,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+15911,Psittacosaurus,110.083336,41.016666,herbivorous,Early Cretaceous 120-100 million years ago,ceratopsian,2.0
+16005,Megalosaurus,0.205104,51.130219,carnivorous,Mid Jurassic 170-155 million years ago,large theropod,9.0
+16006,Diplodocus,-108.124908,44.637482,herbivorous,Late Jurassic 155-145 million years ago,sauropod,26.0
+16009,Pentaceratops,-103.25,29.25,herbivorous,Late Cretaceous 76-74 million years ago,ceratopsian,6.8
+16032,Triceratops,-104.3517,43.327,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+16035,Triceratops,-103.700798,46.566898,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+16038,Tyrannosaurus,-108.016945,36.324722,carnivorous,Late Cretaceous 68-66 million years ago,large theropod,12.0
+16045,Iguanodon,-0.525794,51.066727,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+16046,Megalosaurus,-0.525794,51.066727,carnivorous,Mid Jurassic 170-155 million years ago,large theropod,9.0
+16047,Iguanodon,-0.133333,51.016666,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+16158,Allosaurus,-109.197891,37.559715,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+16176,Camarasaurus,-109.467621,37.465836,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+16187,Allosaurus,-108.120003,43.380001,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+16188,Stegosaurus,-108.771576,39.150227,herbivorous,Late Jurassic 155-145 million years ago,armoured dinosaur,9.0
+16191,Ceratosaurus,-108.771576,39.150227,carnivorous,Late Jurassic 153-148 million years ago,large theropod,6.0
+16192,Allosaurus,-108.771576,39.150227,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+16193,Camarasaurus,-108.771576,39.150227,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+16203,Camarasaurus,-108.769501,39.149235,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+16293,Allosaurus,-108.179619,43.619564,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+16294,Camarasaurus,-108.179619,43.619564,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+16297,Iguanodon,-9.216657,38.421211,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+16298,Camarasaurus,-105.210831,40.487499,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+16303,Apatosaurus,-105.908424,42.149494,herbivorous,Late Jurassic 154-145 million years ago,sauropod,21.0
+16689,Camarasaurus,-110.616386,45.544167,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+16690,Apatosaurus,-110.616386,45.544167,herbivorous,Late Jurassic 154-145 million years ago,sauropod,21.0
+16699,Allosaurus,-109.292778,40.438133,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+17356,Iguanodon,-1.110258,39.730717,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+19004,Troodon,-103.099998,45.5,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+19007,Tyrannosaurus,-103.099998,45.5,carnivorous,Late Cretaceous 68-66 million years ago,large theropod,12.0
+19011,Triceratops,-103.099998,45.5,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+19014,Troodon,-103.488052,45.644169,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+19016,Tyrannosaurus,-103.488052,45.644169,carnivorous,Late Cretaceous 68-66 million years ago,large theropod,12.0
+19020,Triceratops,-103.488052,45.644169,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+19450,Triceratops,-108.101944,36.343887,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+19459,Triceratops,-108.09536,36.287422,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+20187,Triceratops,-108.101944,36.343887,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+20743,Deinonychus,-76.868477,39.070869,carnivorous,Early Cretaceous 120-110 million years ago,small theropod,3.0
+20757,Pentaceratops,-108.083336,36.099998,herbivorous,Late Cretaceous 76-74 million years ago,ceratopsian,6.8
+21613,Pentaceratops,-108.107803,36.393902,herbivorous,Late Cretaceous 76-74 million years ago,ceratopsian,6.8
+21736,Iguanodon,1.605115,50.78104,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+21776,Spinosaurus,1.916667,29.66667,carnivorous,Late Cretaceous 95-70 million years ago,large theropod,18.0
+21853,Psittacosaurus,101.621109,45.297222,herbivorous,Early Cretaceous 120-100 million years ago,ceratopsian,2.0
+21907,Microraptor,119.7957,40.807522,carnivorous,Early Cretaceous 125-122 million years ago,small theropod,0.8
+21913,Apatosaurus,-110.687622,39.32399,herbivorous,Late Jurassic 154-145 million years ago,sauropod,21.0
+21914,Apatosaurus,-109.935837,38.924442,herbivorous,Late Jurassic 154-145 million years ago,sauropod,21.0
+22048,Camarasaurus,-105.210602,38.5168,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+22049,Allosaurus,-105.210602,38.5168,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+22050,Apatosaurus,-105.210602,38.5168,herbivorous,Late Jurassic 154-145 million years ago,sauropod,21.0
+22051,Diplodocus,-105.210602,38.5168,herbivorous,Late Jurassic 155-145 million years ago,sauropod,26.0
+22136,Spinosaurus,-4.266667,31.616667,carnivorous,Late Cretaceous 95-70 million years ago,large theropod,18.0
+22137,Spinosaurus,-3.870278,30.897499,carnivorous,Late Cretaceous 95-70 million years ago,large theropod,18.0
+22162,Tyrannosaurus,-111.0,39.0,carnivorous,Late Cretaceous 68-66 million years ago,large theropod,12.0
+22169,Spinosaurus,7.066667,28.166668,carnivorous,Late Cretaceous 95-70 million years ago,large theropod,18.0
+22193,Carcharodontosaurus,1.4719,33.054401,carnivorous,Late Cretaceous 98-94 million years ago,large theropod,15.0
+22195,Spinosaurus,10.255789,33.172859,carnivorous,Late Cretaceous 95-70 million years ago,large theropod,18.0
+22230,Spinosaurus,-4.836939,30.505667,carnivorous,Late Cretaceous 95-70 million years ago,large theropod,18.0
+22231,Spinosaurus,5.616667,17.933332,carnivorous,Late Cretaceous 95-70 million years ago,large theropod,18.0
+22264,Ankylosaurus,-107.900002,49.900002,herbivorous,Late Cretaceous 74-67 million years ago,armoured dinosaur,7.0
+22321,Apatosaurus,-109.022301,39.139599,herbivorous,Late Jurassic 154-145 million years ago,sauropod,21.0
+22322,Apatosaurus,-106.00222,41.893055,herbivorous,Late Jurassic 154-145 million years ago,sauropod,21.0
+22323,Apatosaurus,-105.706497,41.3139,herbivorous,Late Jurassic 154-145 million years ago,sauropod,21.0
+22324,Apatosaurus,-106.717598,44.058601,herbivorous,Late Jurassic 154-145 million years ago,sauropod,21.0
+22336,Allosaurus,-109.300552,40.441387,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+22337,Allosaurus,-107.779167,44.535557,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+22338,Allosaurus,-104.734703,44.458099,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+23107,Ceratosaurus,-55.961945,-31.702223,carnivorous,Late Jurassic 153-148 million years ago,large theropod,6.0
+23108,Ceratosaurus,-55.897221,-31.868889,carnivorous,Late Jurassic 153-148 million years ago,large theropod,6.0
+23113,Allosaurus,10.067778,51.778332,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+23117,Allosaurus,-8.8,39.700001,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+23118,Allosaurus,-8.8,39.700001,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+23119,Allosaurus,-8.8,39.700001,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+23120,Allosaurus,-8.8,39.700001,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+23121,Allosaurus,-8.8,39.700001,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+23122,Ceratosaurus,39.389999,-9.839167,carnivorous,Late Jurassic 153-148 million years ago,large theropod,6.0
+23124,Ceratosaurus,39.221111,-10.109722,carnivorous,Late Jurassic 153-148 million years ago,large theropod,6.0
+23156,Dilophosaurus,-111.073608,35.736668,carnivorous,Early Jurassic 190 million years ago,large theropod,6.0
+23157,Dilophosaurus,-111.083298,35.75,carnivorous,Early Jurassic 190 million years ago,large theropod,6.0
+23158,Dilophosaurus,-111.083298,35.75,carnivorous,Early Jurassic 190 million years ago,large theropod,6.0
+23159,Dilophosaurus,-110.701401,36.998402,carnivorous,Early Jurassic 190 million years ago,large theropod,6.0
+23160,Dilophosaurus,-109.5466,38.699402,carnivorous,Early Jurassic 190 million years ago,large theropod,6.0
+23253,Allosaurus,-108.792999,46.867001,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+24364,Triceratops,-101.646004,44.942001,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+24373,Dilophosaurus,-111.066704,35.733299,carnivorous,Early Jurassic 190 million years ago,large theropod,6.0
+24374,Dilophosaurus,-110.701401,36.998402,carnivorous,Early Jurassic 190 million years ago,large theropod,6.0
+24392,Dilophosaurus,-111.073608,35.736668,carnivorous,Early Jurassic 190 million years ago,large theropod,6.0
+24587,Allosaurus,-104.734703,44.458099,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+24591,Triceratops,-104.593201,47.056198,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+24620,Iguanodon,-3.286389,42.023335,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+24848,Iguanodon,-0.7084,40.661701,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+24850,Parasaurolophus,-108.152779,36.276112,herbivorous,Late Cretaceous 76-74 million years ago,euornithopod,11.0
+24898,Apatosaurus,-105.192596,39.675598,herbivorous,Late Jurassic 154-145 million years ago,sauropod,21.0
+24899,Stegosaurus,109.976997,39.1203,herbivorous,Late Jurassic 155-145 million years ago,armoured dinosaur,9.0
+25064,Giganotosaurus,-69.184166,-39.628613,carnivorous,Early Cretaceous 112-90 million years ago,large theropod,12.5
+25099,Iguanodon,-0.8167,40.116699,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+25100,Iguanodon,-0.8167,40.116699,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+25410,Allosaurus,-111.024002,39.005001,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+25413,Apatosaurus,-111.024002,39.005001,herbivorous,Late Jurassic 154-145 million years ago,sauropod,21.0
+25414,Camarasaurus,-111.024002,39.005001,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+25415,Stegosaurus,-111.024002,39.005001,herbivorous,Late Jurassic 155-145 million years ago,armoured dinosaur,9.0
+25416,Ceratosaurus,-111.024002,39.005001,carnivorous,Late Jurassic 153-148 million years ago,large theropod,6.0
+25423,Psittacosaurus,101.866699,44.748798,herbivorous,Early Cretaceous 120-100 million years ago,ceratopsian,2.0
+25473,Camarasaurus,-105.2397,38.5527,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+25474,Megalosaurus,6.079355,47.111912,carnivorous,Mid Jurassic 170-155 million years ago,large theropod,9.0
+25479,Triceratops,-106.9552,47.608601,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+25480,Triceratops,-107.0215,47.526402,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+25481,Triceratops,-107.053101,47.544102,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+25523,Stegosaurus,-9.2,39.169998,herbivorous,Late Jurassic 155-145 million years ago,armoured dinosaur,9.0
+25673,Troodon,-109.269997,46.419998,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+25686,Iguanodon,-0.067222,51.074165,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+25687,Iguanodon,-0.067222,51.074165,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+25688,Iguanodon,-0.315833,51.103889,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+25690,Iguanodon,-1.464641,50.652466,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+25691,Iguanodon,-1.352,50.618999,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+25692,Allosaurus,-1.418,50.633999,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+25693,Megalosaurus,-1.418,50.633999,carnivorous,Mid Jurassic 170-155 million years ago,large theropod,9.0
+25694,Iguanodon,-1.418,50.633999,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+25695,Pentaceratops,-108.549721,36.2925,herbivorous,Late Cretaceous 76-74 million years ago,ceratopsian,6.8
+25702,Megalosaurus,-0.2985,51.086498,carnivorous,Mid Jurassic 170-155 million years ago,large theropod,9.0
+25703,Iguanodon,-0.2985,51.086498,herbivorous,Early Cretaceous 140-110 million years ago,euornithopod,10.0
+25724,Megalosaurus,79.191666,19.45389,carnivorous,Mid Jurassic 170-155 million years ago,large theropod,9.0
+25742,Utahraptor,-109.656944,38.847778,carnivorous,Early Cretaceous 112-100 million years ago,large theropod,6.0
+25746,Deinonychus,-109.305244,40.440887,carnivorous,Early Cretaceous 120-110 million years ago,small theropod,3.0
+25766,Deinonychus,-93.879997,34.09,carnivorous,Early Cretaceous 120-110 million years ago,small theropod,3.0
+25798,Troodon,-112.287567,47.768101,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+25816,Stegosaurus,-105.916199,42.152302,herbivorous,Late Jurassic 155-145 million years ago,armoured dinosaur,9.0
+25817,Stegosaurus,-105.916199,42.152302,herbivorous,Late Jurassic 155-145 million years ago,armoured dinosaur,9.0
+25819,Camarasaurus,-105.916199,42.152302,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+25873,Deinonychus,-95.82,34.164001,carnivorous,Early Cretaceous 120-110 million years ago,small theropod,3.0
+25895,Tyrannosaurus,-103.624001,45.651001,carnivorous,Late Cretaceous 68-66 million years ago,large theropod,12.0
+25896,Tyrannosaurus,-106.306,47.886002,carnivorous,Late Cretaceous 68-66 million years ago,large theropod,12.0
+26084,Brachiosaurus,-106.717598,44.058601,herbivorous,Late Jurassic 155-140 million years ago,sauropod,30.0
+26085,Camarasaurus,-106.717598,44.058601,herbivorous,Late Jurassic 150-140 million years ago,sauropod,23.0
+26087,Allosaurus,-106.717598,44.058601,carnivorous,Late Jurassic 156-144 million years ago,large theropod,12.0
+26119,Tyrannosaurus,-103.188957,45.000481,carnivorous,Late Cretaceous 68-66 million years ago,large theropod,12.0
+26128,Troodon,-103.188957,45.000481,carnivorous,Late Cretaceous 74-65 million years ago,small theropod,2.0
+26133,Triceratops,-103.188957,45.000481,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+26134,Torosaurus,-103.188957,45.000481,herbivorous,Late Cretaceous 70-65 million years ago,ceratopsian,7.5
+26136,Pachycephalosaurus,-103.188957,45.000481,herbivorous,Late Cretaceous 76-65 million years ago,euornithopod,8.0
+26137,Pachycephalosaurus,-103.188957,45.000481,herbivorous,Late Cretaceous 76-65 million years ago,euornithopod,8.0
+26140,Ankylosaurus,-103.188957,45.000481,herbivorous,Late Cretaceous 74-67 million years ago,armoured dinosaur,7.0
+26141,Triceratops,-103.144997,45.002998,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+26142,Triceratops,-103.161003,45.007801,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+26144,Triceratops,-103.161003,45.007801,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+26145,Triceratops,-103.161003,45.007801,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+26148,Triceratops,-103.192001,45.002201,herbivorous,Late Cretaceous 68-66 million years ago,ceratopsian,9.0
+26149,Spinosaurus,-2.4257,31.554899,carnivorous,Late Cretaceous 95-70 million years ago,large theropod,18.0
+26150,Spinosaurus,-2.5832,32.0406,carnivorous,Late Cretaceous 95-70 million years ago,large theropod,18.0
+26166,Psittacosaurus,120.764221,41.783817,herbivorous,Early Cretaceous 120-100 million years ago,ceratopsian,2.0

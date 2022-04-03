@@ -1,5 +1,5 @@
 # dinosaur_viz
-https://dinosaur-map.herokuapp.com/
+https://dinosaur-map.herokuapp.com/  
 Educational purpose: A world map showing where dinosaur fossils were found.  User can filter with dinosaur types, periods and diet.
 
 ## Data 

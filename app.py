@@ -17,12 +17,13 @@ period_list = ['Early Jurassic','Mid Jurassic','Late Jurassic','Early Cretaceous
 # App Layout
 app.layout = html.Div([
     html.Div(
-        html.H1("Dino in the World", style={'font-weight': 'bold', 'font-size':'30px', 'color':'white'}),
-        style={'padding': '10px', 'background': '#732626', 'text-align': 'center'}),
+        html.H1("Dino in the World", className="header"),
+        className='banner'
+        ),
     html.Div([
-        html.Div([dcc.Graph(id="dino_map")],  style={'width': '60%', 'float':'left', 'display': 'inline-block'}),
+        html.Div([dcc.Graph(id="dino_map")],  className="map"),
         html.Div([
-        html.P("Map Background:", style={'font-weight': 'bold'}),
+        html.P("Map Background:", className="bold"),
         dcc.Dropdown(
                 id='theme',
                 options={
@@ -30,21 +31,21 @@ app.layout = html.Div([
                     'stamen-watercolor': 'stamen-watercolor'
                 },
                 value='open-street-map',
-                style={'width': '80%', 'display': 'inline-block'}
+                className="dropdown"
         ),
-        html.P("Period:", style={'font-weight': 'bold'}),
+        html.P("Period:", className="bold"),
         dcc.Checklist(period_list, period_list, id='period'),
-        html.P("Dinosaur:", style={'font-weight': 'bold'}),
+        html.P("Dinosaur:", className="bold"),
         dcc.Dropdown(
                 id='dino_name',
                 options=[{'value': x, 'label': x} 
                     for x in dino_names],
                 value='',
                 multi=True,
-                style={'width': '80%', 'display': 'inline-block'}),
-        html.P("Diet:", style={'font-weight': 'bold'}),
+                className="dropdown"),
+        html.P("Diet:", className="bold"),
         dcc.Checklist(dino_df.diet.unique(), dino_df.diet.unique(), id='dino_diet'),
-        ],  style={'width': '20%', 'float':'right'})
+        ],  className="checklist")
     ])
 ])
 

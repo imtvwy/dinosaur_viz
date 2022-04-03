@@ -1,0 +1,31 @@
+.banner {
+    text-align: center;
+    padding: 10px;
+    background: #732626;
+}
+
+.header {
+    font-weight: bold;
+    font-size: 30px;
+    color: white
+}
+
+.map {
+    width: 60%;
+    float: left;
+}
+
+
+.bold {
+    font-weight: bold
+}
+
+.dropdown {
+    width: 80%;
+    display: inline-block
+}
+
+.checklist {
+    width: 20%;
+    float: right
+}
